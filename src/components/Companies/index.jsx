@@ -26,11 +26,16 @@ function Companies() {
     fetchCompanies();
   }, []);
 
+  // ✅ Get UNIQUE industries for dropdown
+  const industries = [...new Set(companies.map((c) => c.industry))];
+
+  // ✅ Filtering logic
   const filteredCompanies = companies.filter((company) => {
     return (
       company.name.toLowerCase().includes(searchName.toLowerCase()) &&
       company.location.toLowerCase().includes(searchLocation.toLowerCase()) &&
-      company.industry.toLowerCase().includes(searchIndustry.toLowerCase())
+      (searchIndustry === "" ||
+        company.industry.toLowerCase() === searchIndustry.toLowerCase())
     );
   });
 
@@ -43,6 +48,7 @@ function Companies() {
 
       {/* Filters */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        {/* Name */}
         <input
           type="text"
           placeholder="Search by name"
@@ -51,6 +57,7 @@ function Companies() {
           className="border p-2 rounded"
         />
 
+        {/* Location */}
         <input
           type="text"
           placeholder="Search by location"
@@ -59,13 +66,19 @@ function Companies() {
           className="border p-2 rounded"
         />
 
-        <input
-          type="text"
-          placeholder="Search by industry"
+        {/* Industry Dropdown */}
+        <select
           value={searchIndustry}
           onChange={(e) => setSearchIndustry(e.target.value)}
           className="border p-2 rounded"
-        />
+        >
+          <option value="">All Industries</option>
+          {industries.map((industry) => (
+            <option key={industry} value={industry}>
+              {industry}
+            </option>
+          ))}
+        </select>
       </div>
 
       {/* Companies List */}
