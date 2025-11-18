@@ -9,7 +9,11 @@ function Companies() {
   const [searchName, setSearchName] = useState("");
   const [searchLocation, setSearchLocation] = useState("");
   const [searchIndustry, setSearchIndustry] = useState("");
-  const [sortOption, setSortOption] = useState(""); // 🆕 sorting state
+  const [sortOption, setSortOption] = useState("");
+
+  // 🔥 Infinite scroll states
+  const [visibleCount, setVisibleCount] = useState(20); // load 20 items at start
+  const LOAD_AMOUNT = 20; // how many more to load each scroll
 
   const fetchCompanies = async () => {
     try {
@@ -27,7 +31,7 @@ function Companies() {
     fetchCompanies();
   }, []);
 
-  // Unique industries for dropdown
+  // Unique industries
   const industries = [...new Set(companies.map((c) => c.industry))];
 
   // Filtering
@@ -40,7 +44,7 @@ function Companies() {
     );
   });
 
-  // 🆕 Sorting
+  // Sorting
   if (sortOption === "name") {
     filteredCompanies.sort((a, b) => a.name.localeCompare(b.name));
   } else if (sortOption === "location") {
@@ -49,6 +53,23 @@ function Companies() {
     filteredCompanies.sort((a, b) => a.employees - b.employees);
   }
 
+  // 🔥 Infinite scroll listener
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollPosition = window.innerHeight + window.scrollY;
+      const pageHeight = document.body.offsetHeight;
+
+      // if user reaches bottom → load more
+      if (scrollPosition >= pageHeight - 200) {
+        setVisibleCount((prev) => prev + LOAD_AMOUNT);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   if (loading) return <p className="text-center text-xl">Loading...</p>;
   if (error) return <p className="text-center text-red-500">{error}</p>;
 
@@ -56,9 +77,8 @@ function Companies() {
     <div className="p-6 max-w-5xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">Companies Directory</h1>
 
-      {/* Filters & Sorting */}
+      {/* Filters + Sorting */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
-        {/* Name */}
         <input
           type="text"
           placeholder="Search by name"
@@ -67,7 +87,6 @@ function Companies() {
           className="border p-2 rounded"
         />
 
-        {/* Location */}
         <input
           type="text"
           placeholder="Search by location"
@@ -76,7 +95,6 @@ function Companies() {
           className="border p-2 rounded"
         />
 
-        {/* Industry Dropdown */}
         <select
           value={searchIndustry}
           onChange={(e) => setSearchIndustry(e.target.value)}
@@ -90,7 +108,6 @@ function Companies() {
           ))}
         </select>
 
-        {/* 🆕 Sorting Dropdown */}
         <select
           value={sortOption}
           onChange={(e) => setSortOption(e.target.value)}
@@ -103,9 +120,9 @@ function Companies() {
         </select>
       </div>
 
-      {/* Companies List */}
+      {/* Company Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredCompanies.map((company) => (
+        {filteredCompanies.slice(0, visibleCount).map((company) => (
           <div
             key={company.id}
             className="border shadow p-4 rounded hover:shadow-lg transition"
@@ -117,7 +134,7 @@ function Companies() {
             />
 
             <h2 className="font-semibold text-xl">{company.name}</h2>
-            <p className="text-gray-600">{company.indindustry}</p>
+            <p className="text-gray-600">{company.industry}</p>
 
             <p className="text-sm mt-2">
               <span className="font-semibold">Location:</span>{" "}
@@ -131,6 +148,11 @@ function Companies() {
           </div>
         ))}
       </div>
+
+      {/* Loader at bottom */}
+      {visibleCount < filteredCompanies.length && (
+        <p className="text-center mt-6 text-gray-500">Loading more...</p>
+      )}
     </div>
   );
 }
