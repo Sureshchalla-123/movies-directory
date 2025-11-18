@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Tech Corp",
+      "location": "San Francisco",
+      "industry": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Health Plus",
+      "location": "New York",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 3,
+      "name": "Eco Solutions",
+      "location": "Portland",
+      "industry": "Environment"
+    },
+    {
+      "id": 4,
+      "name": "FinTech Innovations",
+      "location": "London",
+      "industry": "Finance"
+    },
+    {
+      "id": 5,
+      "name": "Auto Drive",
+      "location": "Detroit",
+      "industry": "Automotive"
+    }
+  ]
+}
