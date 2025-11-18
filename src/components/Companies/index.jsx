@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 function Companies() {
   const [companies, setCompanies] = useState([]);
@@ -16,12 +17,13 @@ function Companies() {
 
   const fetchCompanies = async () => {
     try {
-      const res = await fetch("http://localhost:3001/companies");
+      console.log("Fetching from:", BACKEND_URL);
+      const res = await fetch(BACKEND_URL);
       const data = await res.json();
-      setCompanies(data);
+      console.log(data.companies);
+      setCompanies(data.companies);
     } catch (err) {
       setError("Failed to load companies");
-      console.error(err);
     } finally {
       setLoading(false);
     }
@@ -30,6 +32,9 @@ function Companies() {
   useEffect(() => {
     fetchCompanies();
   }, []);
+
+  console.log(companies);
+  console.log(typeof companies);
 
   // Unique industries
   const industries = [...new Set(companies.map((c) => c.industry))];
