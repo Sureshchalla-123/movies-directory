@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./index.css";
 
 function Companies() {
   const [companies, setCompanies] = useState([]);
@@ -22,6 +21,7 @@ function Companies() {
       setCompanies(data);
     } catch (err) {
       setError("Failed to load companies");
+      console.error(err);
     } finally {
       setLoading(false);
     }
@@ -70,8 +70,20 @@ function Companies() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  if (loading) return <p className="text-center text-xl">Loading...</p>;
-  if (error) return <p className="text-center text-red-500">{error}</p>;
+  if (loading)
+    return (
+      <div className="flex items-center justify-center h-screen w-full fixed inset-0 bg-white">
+        <div className="animate-spin rounded-full h-16 w-16 border-4 border-gray-300 border-t-blue-500"></div>
+      </div>
+    );
+  if (error)
+    return (
+      <div className="flex items-center justify-center h-screen w-full fixed inset-0 bg-white">
+        <p className="text-center text-red-600 text-xl font-semibold">
+          {error}
+        </p>
+      </div>
+    );
 
   return (
     <div className="p-6 max-w-5xl mx-auto">
