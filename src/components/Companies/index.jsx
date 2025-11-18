@@ -9,6 +9,7 @@ function Companies() {
   const [searchName, setSearchName] = useState("");
   const [searchLocation, setSearchLocation] = useState("");
   const [searchIndustry, setSearchIndustry] = useState("");
+  const [sortOption, setSortOption] = useState(""); // 🆕 sorting state
 
   const fetchCompanies = async () => {
     try {
@@ -26,11 +27,11 @@ function Companies() {
     fetchCompanies();
   }, []);
 
-  // ✅ Get UNIQUE industries for dropdown
+  // Unique industries for dropdown
   const industries = [...new Set(companies.map((c) => c.industry))];
 
-  // ✅ Filtering logic
-  const filteredCompanies = companies.filter((company) => {
+  // Filtering
+  let filteredCompanies = companies.filter((company) => {
     return (
       company.name.toLowerCase().includes(searchName.toLowerCase()) &&
       company.location.toLowerCase().includes(searchLocation.toLowerCase()) &&
@@ -39,6 +40,15 @@ function Companies() {
     );
   });
 
+  // 🆕 Sorting
+  if (sortOption === "name") {
+    filteredCompanies.sort((a, b) => a.name.localeCompare(b.name));
+  } else if (sortOption === "location") {
+    filteredCompanies.sort((a, b) => a.location.localeCompare(b.location));
+  } else if (sortOption === "employees") {
+    filteredCompanies.sort((a, b) => a.employees - b.employees);
+  }
+
   if (loading) return <p className="text-center text-xl">Loading...</p>;
   if (error) return <p className="text-center text-red-500">{error}</p>;
 
@@ -46,8 +56,8 @@ function Companies() {
     <div className="p-6 max-w-5xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">Companies Directory</h1>
 
-      {/* Filters */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+      {/* Filters & Sorting */}
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
         {/* Name */}
         <input
           type="text"
@@ -79,6 +89,18 @@ function Companies() {
             </option>
           ))}
         </select>
+
+        {/* 🆕 Sorting Dropdown */}
+        <select
+          value={sortOption}
+          onChange={(e) => setSortOption(e.target.value)}
+          className="border p-2 rounded"
+        >
+          <option value="">Sort By</option>
+          <option value="name">Name (A–Z)</option>
+          <option value="location">Location (A–Z)</option>
+          <option value="employees">Employees (Low → High)</option>
+        </select>
       </div>
 
       {/* Companies List */}
@@ -95,7 +117,7 @@ function Companies() {
             />
 
             <h2 className="font-semibold text-xl">{company.name}</h2>
-            <p className="text-gray-600">{company.industry}</p>
+            <p className="text-gray-600">{company.indindustry}</p>
 
             <p className="text-sm mt-2">
               <span className="font-semibold">Location:</span>{" "}
