@@ -1,7 +1,9 @@
+import Companies from "./components/Companies/index.jsx";
+
 function App() {
   return (
     <>
-      <h1>Hello, World!</h1>
+      <Companies />
     </>
   );
 }

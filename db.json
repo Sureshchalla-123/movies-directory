@@ -1,0 +1,5004 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "domain": "apple.com",
+      "industry": "Energy",
+      "employees": 6218,
+      "founded": 1941,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "domain": "microsoft.com",
+      "industry": "Media",
+      "employees": 117859,
+      "founded": 2017,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
+      "id": 3,
+      "name": "Amazon",
+      "domain": "amazon.com",
+      "industry": "Transportation",
+      "employees": 231036,
+      "founded": 1958,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "id": 4,
+      "name": "Alphabet",
+      "domain": "alphabet.com",
+      "industry": "Pharmaceuticals",
+      "employees": 8275,
+      "founded": 1913,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/alphabet.com"
+    },
+    {
+      "id": 5,
+      "name": "Meta",
+      "domain": "meta.com",
+      "industry": "Cloud Services",
+      "employees": 137520,
+      "founded": 1977,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/meta.com"
+    },
+    {
+      "id": 6,
+      "name": "Tesla",
+      "domain": "tesla.com",
+      "industry": "Logistics",
+      "employees": 3967,
+      "founded": 1973,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/tesla.com"
+    },
+    {
+      "id": 7,
+      "name": "Samsung",
+      "domain": "samsung.com",
+      "industry": "Insurance",
+      "employees": 180153,
+      "founded": 1920,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/samsung.com"
+    },
+    {
+      "id": 8,
+      "name": "Intel",
+      "domain": "intel.com",
+      "industry": "Logistics",
+      "employees": 9535,
+      "founded": 2014,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/intel.com"
+    },
+    {
+      "id": 9,
+      "name": "IBM",
+      "domain": "ibm.com",
+      "industry": "Banking",
+      "employees": 13985,
+      "founded": 2011,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/ibm.com"
+    },
+    {
+      "id": 10,
+      "name": "Oracle",
+      "domain": "oracle.com",
+      "industry": "Consulting",
+      "employees": 13463,
+      "founded": 1956,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/oracle.com"
+    },
+    {
+      "id": 11,
+      "name": "SAP",
+      "domain": "sap.com",
+      "industry": "Telecommunications",
+      "employees": 7195,
+      "founded": 1953,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/sap.com"
+    },
+    {
+      "id": 12,
+      "name": "Sony",
+      "domain": "sony.com",
+      "industry": "Real Estate",
+      "employees": 14569,
+      "founded": 1933,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/sony.com"
+    },
+    {
+      "id": 13,
+      "name": "Panasonic",
+      "domain": "panasonic.com",
+      "industry": "Entertainment",
+      "employees": 9076,
+      "founded": 1995,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/panasonic.com"
+    },
+    {
+      "id": 14,
+      "name": "LG",
+      "domain": "lg.com",
+      "industry": "Manufacturing",
+      "employees": 2850,
+      "founded": 1918,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/lg.com"
+    },
+    {
+      "id": 15,
+      "name": "Huawei",
+      "domain": "huawei.com",
+      "industry": "Energy",
+      "employees": 15058,
+      "founded": 1938,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/huawei.com"
+    },
+    {
+      "id": 16,
+      "name": "Alibaba",
+      "domain": "alibaba.com",
+      "industry": "Real Estate",
+      "employees": 154517,
+      "founded": 1932,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/alibaba.com"
+    },
+    {
+      "id": 17,
+      "name": "Tencent",
+      "domain": "tencent.com",
+      "industry": "Insurance",
+      "employees": 239070,
+      "founded": 1953,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/tencent.com"
+    },
+    {
+      "id": 18,
+      "name": "Baidu",
+      "domain": "baidu.com",
+      "industry": "Consumer Goods",
+      "employees": 1892,
+      "founded": 1983,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/baidu.com"
+    },
+    {
+      "id": 19,
+      "name": "JD.com",
+      "domain": "jd-com.com",
+      "industry": "Semiconductors",
+      "employees": 4992,
+      "founded": 2005,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/jd-com.com"
+    },
+    {
+      "id": 20,
+      "name": "Netflix",
+      "domain": "netflix.com",
+      "industry": "Oil & Gas",
+      "employees": 45788,
+      "founded": 1989,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/netflix.com"
+    },
+    {
+      "id": 21,
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "industry": "E-commerce",
+      "employees": 228650,
+      "founded": 1987,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/airbnb.com"
+    },
+    {
+      "id": 22,
+      "name": "Uber",
+      "domain": "uber.com",
+      "industry": "Banking",
+      "employees": 17315,
+      "founded": 1939,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/uber.com"
+    },
+    {
+      "id": 23,
+      "name": "Lyft",
+      "domain": "lyft.com",
+      "industry": "Hardware",
+      "employees": 44317,
+      "founded": 1985,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/lyft.com"
+    },
+    {
+      "id": 24,
+      "name": "Starbucks",
+      "domain": "starbucks.com",
+      "industry": "Food & Beverage",
+      "employees": 5927,
+      "founded": 1972,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/starbucks.com"
+    },
+    {
+      "id": 25,
+      "name": "McDonald's",
+      "domain": "mcdonald-s.com",
+      "industry": "Hardware",
+      "employees": 16142,
+      "founded": 1993,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/mcdonald-s.com"
+    },
+    {
+      "id": 26,
+      "name": "Coca-Cola",
+      "domain": "coca-cola.com",
+      "industry": "Energy",
+      "employees": 261241,
+      "founded": 1932,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/coca-cola.com"
+    },
+    {
+      "id": 27,
+      "name": "PepsiCo",
+      "domain": "pepsico.com",
+      "industry": "Automotive",
+      "employees": 299,
+      "founded": 2016,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/pepsico.com"
+    },
+    {
+      "id": 28,
+      "name": "Nestle",
+      "domain": "nestle.com",
+      "industry": "Hospitality",
+      "employees": 7698,
+      "founded": 1993,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/nestle.com"
+    },
+    {
+      "id": 29,
+      "name": "Unilever",
+      "domain": "unilever.com",
+      "industry": "Cloud Services",
+      "employees": 5962,
+      "founded": 1987,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/unilever.com"
+    },
+    {
+      "id": 30,
+      "name": "Procter & Gamble",
+      "domain": "procter-and-gamble.com",
+      "industry": "Retail",
+      "employees": 1870,
+      "founded": 1961,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/procter-and-gamble.com"
+    },
+    {
+      "id": 31,
+      "name": "Johnson & Johnson",
+      "domain": "johnson-and-johnson.com",
+      "industry": "Cloud Services",
+      "employees": 8156,
+      "founded": 1910,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/johnson-and-johnson.com"
+    },
+    {
+      "id": 32,
+      "name": "Pfizer",
+      "domain": "pfizer.com",
+      "industry": "Education",
+      "employees": 81935,
+      "founded": 1987,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/pfizer.com"
+    },
+    {
+      "id": 33,
+      "name": "Roche",
+      "domain": "roche.com",
+      "industry": "Hardware",
+      "employees": 43469,
+      "founded": 2012,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/roche.com"
+    },
+    {
+      "id": 34,
+      "name": "Novartis",
+      "domain": "novartis.com",
+      "industry": "Oil & Gas",
+      "employees": 7059,
+      "founded": 2009,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/novartis.com"
+    },
+    {
+      "id": 35,
+      "name": "Merck",
+      "domain": "merck.com",
+      "industry": "Healthcare",
+      "employees": 14004,
+      "founded": 1997,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/merck.com"
+    },
+    {
+      "id": 36,
+      "name": "AstraZeneca",
+      "domain": "astrazeneca.com",
+      "industry": "Semiconductors",
+      "employees": 941,
+      "founded": 1919,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/astrazeneca.com"
+    },
+    {
+      "id": 37,
+      "name": "GlaxoSmithKline",
+      "domain": "glaxosmithkline.com",
+      "industry": "Retail",
+      "employees": 19116,
+      "founded": 1981,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/glaxosmithkline.com"
+    },
+    {
+      "id": 38,
+      "name": "Siemens",
+      "domain": "siemens.com",
+      "industry": "Banking",
+      "employees": 261748,
+      "founded": 2007,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/siemens.com"
+    },
+    {
+      "id": 39,
+      "name": "Bosch",
+      "domain": "bosch.com",
+      "industry": "Retail",
+      "employees": 1872,
+      "founded": 1919,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/bosch.com"
+    },
+    {
+      "id": 40,
+      "name": "Volkswagen",
+      "domain": "volkswagen.com",
+      "industry": "E-commerce",
+      "employees": 18129,
+      "founded": 2011,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/volkswagen.com"
+    },
+    {
+      "id": 41,
+      "name": "BMW",
+      "domain": "bmw.com",
+      "industry": "Cybersecurity",
+      "employees": 186380,
+      "founded": 1977,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/bmw.com"
+    },
+    {
+      "id": 42,
+      "name": "Mercedes-Benz",
+      "domain": "mercedes-benz.com",
+      "industry": "Real Estate",
+      "employees": 15810,
+      "founded": 1938,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/mercedes-benz.com"
+    },
+    {
+      "id": 43,
+      "name": "Toyota",
+      "domain": "toyota.com",
+      "industry": "Pharmaceuticals",
+      "employees": 165068,
+      "founded": 1964,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/toyota.com"
+    },
+    {
+      "id": 44,
+      "name": "Honda",
+      "domain": "honda.com",
+      "industry": "Banking",
+      "employees": 8584,
+      "founded": 1942,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/honda.com"
+    },
+    {
+      "id": 45,
+      "name": "Nissan",
+      "domain": "nissan.com",
+      "industry": "Transportation",
+      "employees": 157601,
+      "founded": 1975,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/nissan.com"
+    },
+    {
+      "id": 46,
+      "name": "Ford",
+      "domain": "ford.com",
+      "industry": "Consumer Goods",
+      "employees": 3766,
+      "founded": 1954,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/ford.com"
+    },
+    {
+      "id": 47,
+      "name": "General Motors",
+      "domain": "general-motors.com",
+      "industry": "Cloud Services",
+      "employees": 99420,
+      "founded": 2008,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/general-motors.com"
+    },
+    {
+      "id": 48,
+      "name": "Renault",
+      "domain": "renault.com",
+      "industry": "E-commerce",
+      "employees": 6232,
+      "founded": 1916,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/renault.com"
+    },
+    {
+      "id": 49,
+      "name": "Peugeot",
+      "domain": "peugeot.com",
+      "industry": "Real Estate",
+      "employees": 18769,
+      "founded": 1993,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/peugeot.com"
+    },
+    {
+      "id": 50,
+      "name": "Airbus",
+      "domain": "airbus.com",
+      "industry": "Finance",
+      "employees": 144811,
+      "founded": 1931,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/airbus.com"
+    },
+    {
+      "id": 51,
+      "name": "Boeing",
+      "domain": "boeing.com",
+      "industry": "Mining",
+      "employees": 17475,
+      "founded": 1991,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/boeing.com"
+    },
+    {
+      "id": 52,
+      "name": "Lockheed Martin",
+      "domain": "lockheed-martin.com",
+      "industry": "Biotechnology",
+      "employees": 2136,
+      "founded": 1942,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/lockheed-martin.com"
+    },
+    {
+      "id": 53,
+      "name": "Northrop Grumman",
+      "domain": "northrop-grumman.com",
+      "industry": "Insurance",
+      "employees": 3403,
+      "founded": 1974,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/northrop-grumman.com"
+    },
+    {
+      "id": 54,
+      "name": "Honeywell",
+      "domain": "honeywell.com",
+      "industry": "Oil & Gas",
+      "employees": 271067,
+      "founded": 1942,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/honeywell.com"
+    },
+    {
+      "id": 55,
+      "name": "Caterpillar",
+      "domain": "caterpillar.com",
+      "industry": "Construction",
+      "employees": 92123,
+      "founded": 1965,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/caterpillar.com"
+    },
+    {
+      "id": 56,
+      "name": "ExxonMobil",
+      "domain": "exxonmobil.com",
+      "industry": "Agriculture",
+      "employees": 7537,
+      "founded": 1946,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/exxonmobil.com"
+    },
+    {
+      "id": 57,
+      "name": "Shell",
+      "domain": "shell.com",
+      "industry": "Real Estate",
+      "employees": 11355,
+      "founded": 1965,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/shell.com"
+    },
+    {
+      "id": 58,
+      "name": "BP",
+      "domain": "bp.com",
+      "industry": "Entertainment",
+      "employees": 18888,
+      "founded": 1985,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/bp.com"
+    },
+    {
+      "id": 59,
+      "name": "TotalEnergies",
+      "domain": "totalenergies.com",
+      "industry": "Cybersecurity",
+      "employees": 224124,
+      "founded": 1921,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/totalenergies.com"
+    },
+    {
+      "id": 60,
+      "name": "Chevron",
+      "domain": "chevron.com",
+      "industry": "Construction",
+      "employees": 2799,
+      "founded": 1918,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/chevron.com"
+    },
+    {
+      "id": 61,
+      "name": "Petrobras",
+      "domain": "petrobras.com",
+      "industry": "Manufacturing",
+      "employees": 178216,
+      "founded": 1996,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/petrobras.com"
+    },
+    {
+      "id": 62,
+      "name": "Sinopec",
+      "domain": "sinopec.com",
+      "industry": "Oil & Gas",
+      "employees": 1058,
+      "founded": 1927,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/sinopec.com"
+    },
+    {
+      "id": 63,
+      "name": "Lukoil",
+      "domain": "lukoil.com",
+      "industry": "Retail",
+      "employees": 5797,
+      "founded": 2016,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/lukoil.com"
+    },
+    {
+      "id": 64,
+      "name": "Reliance Industries",
+      "domain": "reliance-industries.com",
+      "industry": "Banking",
+      "employees": 2114,
+      "founded": 1987,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/reliance-industries.com"
+    },
+    {
+      "id": 65,
+      "name": "Tata Consultancy Services",
+      "domain": "tata-consultancy-services.com",
+      "industry": "Consulting",
+      "employees": 9887,
+      "founded": 1999,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/tata-consultancy-services.com"
+    },
+    {
+      "id": 66,
+      "name": "Tata Motors",
+      "domain": "tata-motors.com",
+      "industry": "Oil & Gas",
+      "employees": 15907,
+      "founded": 1993,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/tata-motors.com"
+    },
+    {
+      "id": 67,
+      "name": "Adani Group",
+      "domain": "adani-group.com",
+      "industry": "Mining",
+      "employees": 170353,
+      "founded": 1920,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/adani-group.com"
+    },
+    {
+      "id": 68,
+      "name": "Infosys",
+      "domain": "infosys.com",
+      "industry": "Food & Beverage",
+      "employees": 7935,
+      "founded": 1925,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/infosys.com"
+    },
+    {
+      "id": 69,
+      "name": "Wipro",
+      "domain": "wipro.com",
+      "industry": "Pharmaceuticals",
+      "employees": 16060,
+      "founded": 1974,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/wipro.com"
+    },
+    {
+      "id": 70,
+      "name": "HCL Technologies",
+      "domain": "hcl-technologies.com",
+      "industry": "Healthcare",
+      "employees": 122688,
+      "founded": 1969,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/hcl-technologies.com"
+    },
+    {
+      "id": 71,
+      "name": "Accenture",
+      "domain": "accenture.com",
+      "industry": "Education",
+      "employees": 250526,
+      "founded": 1923,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/accenture.com"
+    },
+    {
+      "id": 72,
+      "name": "Deloitte",
+      "domain": "deloitte.com",
+      "industry": "Real Estate",
+      "employees": 90359,
+      "founded": 2008,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/deloitte.com"
+    },
+    {
+      "id": 73,
+      "name": "PwC",
+      "domain": "pwc.com",
+      "industry": "Banking",
+      "employees": 298369,
+      "founded": 2017,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/pwc.com"
+    },
+    {
+      "id": 74,
+      "name": "EY",
+      "domain": "ey.com",
+      "industry": "Mining",
+      "employees": 101966,
+      "founded": 1984,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/ey.com"
+    },
+    {
+      "id": 75,
+      "name": "KPMG",
+      "domain": "kpmg.com",
+      "industry": "Transportation",
+      "employees": 6119,
+      "founded": 1953,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/kpmg.com"
+    },
+    {
+      "id": 76,
+      "name": "Goldman Sachs",
+      "domain": "goldman-sachs.com",
+      "industry": "Cybersecurity",
+      "employees": 8929,
+      "founded": 1934,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/goldman-sachs.com"
+    },
+    {
+      "id": 77,
+      "name": "JPMorgan Chase",
+      "domain": "jpmorgan-chase.com",
+      "industry": "Agriculture",
+      "employees": 8412,
+      "founded": 2002,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/jpmorgan-chase.com"
+    },
+    {
+      "id": 78,
+      "name": "Bank of America",
+      "domain": "bank-of-america.com",
+      "industry": "Hardware",
+      "employees": 12903,
+      "founded": 1959,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/bank-of-america.com"
+    },
+    {
+      "id": 79,
+      "name": "Citigroup",
+      "domain": "citigroup.com",
+      "industry": "Transportation",
+      "employees": 8970,
+      "founded": 1976,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/citigroup.com"
+    },
+    {
+      "id": 80,
+      "name": "Morgan Stanley",
+      "domain": "morgan-stanley.com",
+      "industry": "Consumer Goods",
+      "employees": 10143,
+      "founded": 1936,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/morgan-stanley.com"
+    },
+    {
+      "id": 81,
+      "name": "HSBC",
+      "domain": "hsbc.com",
+      "industry": "Cybersecurity",
+      "employees": 5215,
+      "founded": 2010,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/hsbc.com"
+    },
+    {
+      "id": 82,
+      "name": "Barclays",
+      "domain": "barclays.com",
+      "industry": "Manufacturing",
+      "employees": 6434,
+      "founded": 1963,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/barclays.com"
+    },
+    {
+      "id": 83,
+      "name": "Deutsche Bank",
+      "domain": "deutsche-bank.com",
+      "industry": "Real Estate",
+      "employees": 39145,
+      "founded": 1912,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/deutsche-bank.com"
+    },
+    {
+      "id": 84,
+      "name": "UBS",
+      "domain": "ubs.com",
+      "industry": "Software Development",
+      "employees": 9824,
+      "founded": 1924,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/ubs.com"
+    },
+    {
+      "id": 85,
+      "name": "BNP Paribas",
+      "domain": "bnp-paribas.com",
+      "industry": "Retail",
+      "employees": 8850,
+      "founded": 1958,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/bnp-paribas.com"
+    },
+    {
+      "id": 86,
+      "name": "Santander",
+      "domain": "santander.com",
+      "industry": "Software Development",
+      "employees": 60171,
+      "founded": 1929,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/santander.com"
+    },
+    {
+      "id": 87,
+      "name": "ING",
+      "domain": "ing.com",
+      "industry": "Real Estate",
+      "employees": 277913,
+      "founded": 2017,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/ing.com"
+    },
+    {
+      "id": 88,
+      "name": "Mitsubishi UFJ Financial Group",
+      "domain": "mitsubishi-ufj-financial-group.com",
+      "industry": "Automotive",
+      "employees": 1898,
+      "founded": 1974,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/mitsubishi-ufj-financial-group.com"
+    },
+    {
+      "id": 89,
+      "name": "Mizuho Financial Group",
+      "domain": "mizuho-financial-group.com",
+      "industry": "Agriculture",
+      "employees": 7903,
+      "founded": 2018,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/mizuho-financial-group.com"
+    },
+    {
+      "id": 90,
+      "name": "Sumitomo Mitsui Financial Group",
+      "domain": "sumitomo-mitsui-financial-group.com",
+      "industry": "Aerospace",
+      "employees": 5353,
+      "founded": 2001,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/sumitomo-mitsui-financial-group.com"
+    },
+    {
+      "id": 91,
+      "name": "SoftBank",
+      "domain": "softbank.com",
+      "industry": "Energy",
+      "employees": 1471,
+      "founded": 1970,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/softbank.com"
+    },
+    {
+      "id": 92,
+      "name": "Rakuten",
+      "domain": "rakuten.com",
+      "industry": "Automotive",
+      "employees": 2087,
+      "founded": 1940,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/rakuten.com"
+    },
+    {
+      "id": 93,
+      "name": "Zillow",
+      "domain": "zillow.com",
+      "industry": "Hardware",
+      "employees": 13620,
+      "founded": 2008,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/zillow.com"
+    },
+    {
+      "id": 94,
+      "name": "Salesforce",
+      "domain": "salesforce.com",
+      "industry": "Banking",
+      "employees": 996,
+      "founded": 1962,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/salesforce.com"
+    },
+    {
+      "id": 95,
+      "name": "Adobe",
+      "domain": "adobe.com",
+      "industry": "Manufacturing",
+      "employees": 682,
+      "founded": 1992,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/adobe.com"
+    },
+    {
+      "id": 96,
+      "name": "Atlassian",
+      "domain": "atlassian.com",
+      "industry": "Retail",
+      "employees": 6564,
+      "founded": 1952,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/atlassian.com"
+    },
+    {
+      "id": 97,
+      "name": "Zoom",
+      "domain": "zoom.com",
+      "industry": "Cybersecurity",
+      "employees": 7623,
+      "founded": 1921,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/zoom.com"
+    },
+    {
+      "id": 98,
+      "name": "Shopify",
+      "domain": "shopify.com",
+      "industry": "Biotechnology",
+      "employees": 244915,
+      "founded": 1991,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/shopify.com"
+    },
+    {
+      "id": 99,
+      "name": "Square",
+      "domain": "square.com",
+      "industry": "Software Development",
+      "employees": 23383,
+      "founded": 1988,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/square.com"
+    },
+    {
+      "id": 100,
+      "name": "Stripe",
+      "domain": "stripe.com",
+      "industry": "Hospitality",
+      "employees": 277603,
+      "founded": 2011,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/stripe.com"
+    },
+    {
+      "id": 101,
+      "name": "Flipkart",
+      "domain": "flipkart.com",
+      "industry": "Food & Beverage",
+      "employees": 4620,
+      "founded": 1966,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/flipkart.com"
+    },
+    {
+      "id": 102,
+      "name": "Tokopedia",
+      "domain": "tokopedia.com",
+      "industry": "Software Development",
+      "employees": 110060,
+      "founded": 2010,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/tokopedia.com"
+    },
+    {
+      "id": 103,
+      "name": "Ola",
+      "domain": "ola.com",
+      "industry": "Cloud Services",
+      "employees": 4442,
+      "founded": 1917,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/ola.com"
+    },
+    {
+      "id": 104,
+      "name": "Zomato",
+      "domain": "zomato.com",
+      "industry": "Agriculture",
+      "employees": 4352,
+      "founded": 1950,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/zomato.com"
+    },
+    {
+      "id": 105,
+      "name": "Grab",
+      "domain": "grab.com",
+      "industry": "Agriculture",
+      "employees": 146673,
+      "founded": 1969,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/grab.com"
+    },
+    {
+      "id": 106,
+      "name": "Sea Limited",
+      "domain": "sea-limited.com",
+      "industry": "Hardware",
+      "employees": 13337,
+      "founded": 2017,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/sea-limited.com"
+    },
+    {
+      "id": 107,
+      "name": "BYD",
+      "domain": "byd.com",
+      "industry": "Food & Beverage",
+      "employees": 579,
+      "founded": 1970,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/byd.com"
+    },
+    {
+      "id": 108,
+      "name": "Xiaomi",
+      "domain": "xiaomi.com",
+      "industry": "Entertainment",
+      "employees": 6973,
+      "founded": 1937,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/xiaomi.com"
+    },
+    {
+      "id": 109,
+      "name": "Oppo",
+      "domain": "oppo.com",
+      "industry": "Entertainment",
+      "employees": 91443,
+      "founded": 2003,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/oppo.com"
+    },
+    {
+      "id": 110,
+      "name": "Vivo",
+      "domain": "vivo.com",
+      "industry": "Energy",
+      "employees": 17908,
+      "founded": 1981,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/vivo.com"
+    },
+    {
+      "id": 111,
+      "name": "Paytm",
+      "domain": "paytm.com",
+      "industry": "Insurance",
+      "employees": 231821,
+      "founded": 1912,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/paytm.com"
+    },
+    {
+      "id": 112,
+      "name": "Naspers",
+      "domain": "naspers.com",
+      "industry": "E-commerce",
+      "employees": 3648,
+      "founded": 2012,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/naspers.com"
+    },
+    {
+      "id": 113,
+      "name": "Spotify",
+      "domain": "spotify.com",
+      "industry": "Manufacturing",
+      "employees": 153624,
+      "founded": 2014,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/spotify.com"
+    },
+    {
+      "id": 114,
+      "name": "Snap",
+      "domain": "snap.com",
+      "industry": "Aerospace",
+      "employees": 5449,
+      "founded": 2015,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/snap.com"
+    },
+    {
+      "id": 115,
+      "name": "Qualcomm",
+      "domain": "qualcomm.com",
+      "industry": "Construction",
+      "employees": 35065,
+      "founded": 1954,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/qualcomm.com"
+    },
+    {
+      "id": 116,
+      "name": "AMD",
+      "domain": "amd.com",
+      "industry": "Automotive",
+      "employees": 4206,
+      "founded": 1982,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/amd.com"
+    },
+    {
+      "id": 117,
+      "name": "NVIDIA",
+      "domain": "nvidia.com",
+      "industry": "Hardware",
+      "employees": 7047,
+      "founded": 2002,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": 118,
+      "name": "ARM",
+      "domain": "arm.com",
+      "industry": "Oil & Gas",
+      "employees": 126903,
+      "founded": 1968,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/arm.com"
+    },
+    {
+      "id": 119,
+      "name": "Broadcom",
+      "domain": "broadcom.com",
+      "industry": "Energy",
+      "employees": 3211,
+      "founded": 1919,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/broadcom.com"
+    },
+    {
+      "id": 120,
+      "name": "Texas Instruments",
+      "domain": "texas-instruments.com",
+      "industry": "Hospitality",
+      "employees": 2925,
+      "founded": 1935,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/texas-instruments.com"
+    },
+    {
+      "id": 121,
+      "name": "ASML",
+      "domain": "asml.com",
+      "industry": "Semiconductors",
+      "employees": 12969,
+      "founded": 1999,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/asml.com"
+    },
+    {
+      "id": 122,
+      "name": "TSMC",
+      "domain": "tsmc.com",
+      "industry": "Manufacturing",
+      "employees": 12872,
+      "founded": 1978,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/tsmc.com"
+    },
+    {
+      "id": 123,
+      "name": "Taiwan Semiconductor",
+      "domain": "taiwan-semiconductor.com",
+      "industry": "Aerospace",
+      "employees": 7693,
+      "founded": 2006,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/taiwan-semiconductor.com"
+    },
+    {
+      "id": 124,
+      "name": "Micron Technology",
+      "domain": "micron-technology.com",
+      "industry": "Media",
+      "employees": 192056,
+      "founded": 1953,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/micron-technology.com"
+    },
+    {
+      "id": 125,
+      "name": "Western Digital",
+      "domain": "western-digital.com",
+      "industry": "E-commerce",
+      "employees": 5807,
+      "founded": 1973,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/western-digital.com"
+    },
+    {
+      "id": 126,
+      "name": "Panasonic Avionics",
+      "domain": "panasonic-avionics.com",
+      "industry": "Construction",
+      "employees": 162485,
+      "founded": 2012,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/panasonic-avionics.com"
+    },
+    {
+      "id": 127,
+      "name": "Garmin",
+      "domain": "garmin.com",
+      "industry": "Cybersecurity",
+      "employees": 6620,
+      "founded": 1956,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/garmin.com"
+    },
+    {
+      "id": 128,
+      "name": "Booking.com",
+      "domain": "booking-com.com",
+      "industry": "Healthcare",
+      "employees": 5785,
+      "founded": 1938,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/booking-com.com"
+    },
+    {
+      "id": 129,
+      "name": "Expedia",
+      "domain": "expedia.com",
+      "industry": "Biotechnology",
+      "employees": 119889,
+      "founded": 1929,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/expedia.com"
+    },
+    {
+      "id": 130,
+      "name": "Priceline",
+      "domain": "priceline.com",
+      "industry": "Construction",
+      "employees": 7230,
+      "founded": 1980,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/priceline.com"
+    },
+    {
+      "id": 131,
+      "name": "eBay",
+      "domain": "ebay.com",
+      "industry": "Logistics",
+      "employees": 8764,
+      "founded": 1944,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/ebay.com"
+    },
+    {
+      "id": 132,
+      "name": "Alibaba Group",
+      "domain": "alibaba-group.com",
+      "industry": "Hospitality",
+      "employees": 241872,
+      "founded": 2010,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/alibaba-group.com"
+    },
+    {
+      "id": 133,
+      "name": "H&M",
+      "domain": "handm.com",
+      "industry": "Real Estate",
+      "employees": 43353,
+      "founded": 1955,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/handm.com"
+    },
+    {
+      "id": 134,
+      "name": "Zara",
+      "domain": "zara.com",
+      "industry": "Oil & Gas",
+      "employees": 18892,
+      "founded": 1957,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/zara.com"
+    },
+    {
+      "id": 135,
+      "name": "Inditex",
+      "domain": "inditex.com",
+      "industry": "Logistics",
+      "employees": 7051,
+      "founded": 1963,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/inditex.com"
+    },
+    {
+      "id": 136,
+      "name": "IKEA",
+      "domain": "ikea.com",
+      "industry": "Real Estate",
+      "employees": 5056,
+      "founded": 2008,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/ikea.com"
+    },
+    {
+      "id": 137,
+      "name": "LVMH",
+      "domain": "lvmh.com",
+      "industry": "Food & Beverage",
+      "employees": 149625,
+      "founded": 1987,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/lvmh.com"
+    },
+    {
+      "id": 138,
+      "name": "Hermes",
+      "domain": "hermes.com",
+      "industry": "Insurance",
+      "employees": 103642,
+      "founded": 1911,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/hermes.com"
+    },
+    {
+      "id": 139,
+      "name": "Rolex",
+      "domain": "rolex.com",
+      "industry": "Logistics",
+      "employees": 212560,
+      "founded": 1941,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/rolex.com"
+    },
+    {
+      "id": 140,
+      "name": "Puma",
+      "domain": "puma.com",
+      "industry": "Automotive",
+      "employees": 4233,
+      "founded": 1911,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/puma.com"
+    },
+    {
+      "id": 141,
+      "name": "Adidas",
+      "domain": "adidas.com",
+      "industry": "Transportation",
+      "employees": 4147,
+      "founded": 1940,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/adidas.com"
+    },
+    {
+      "id": 142,
+      "name": "Nike",
+      "domain": "nike.com",
+      "industry": "Healthcare",
+      "employees": 7621,
+      "founded": 1938,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/nike.com"
+    },
+    {
+      "id": 143,
+      "name": "Under Armour",
+      "domain": "under-armour.com",
+      "industry": "Mining",
+      "employees": 89193,
+      "founded": 1965,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/under-armour.com"
+    },
+    {
+      "id": 144,
+      "name": "New Balance",
+      "domain": "new-balance.com",
+      "industry": "Hardware",
+      "employees": 155714,
+      "founded": 1972,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/new-balance.com"
+    },
+    {
+      "id": 145,
+      "name": "Unilever",
+      "domain": "unilever.com",
+      "industry": "Software Development",
+      "employees": 15496,
+      "founded": 1956,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/unilever.com"
+    },
+    {
+      "id": 146,
+      "name": "Clorox",
+      "domain": "clorox.com",
+      "industry": "Insurance",
+      "employees": 165650,
+      "founded": 1921,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/clorox.com"
+    },
+    {
+      "id": 147,
+      "name": "Kraft Heinz",
+      "domain": "kraft-heinz.com",
+      "industry": "Real Estate",
+      "employees": 82216,
+      "founded": 1937,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/kraft-heinz.com"
+    },
+    {
+      "id": 148,
+      "name": "General Electric",
+      "domain": "general-electric.com",
+      "industry": "Semiconductors",
+      "employees": 9666,
+      "founded": 1975,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/general-electric.com"
+    },
+    {
+      "id": 149,
+      "name": "3M",
+      "domain": "3m.com",
+      "industry": "Banking",
+      "employees": 13256,
+      "founded": 1948,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/3m.com"
+    },
+    {
+      "id": 150,
+      "name": "Philips",
+      "domain": "philips.com",
+      "industry": "Consulting",
+      "employees": 162960,
+      "founded": 1950,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/philips.com"
+    },
+    {
+      "id": 151,
+      "name": "ABB",
+      "domain": "abb.com",
+      "industry": "Cybersecurity",
+      "employees": 3073,
+      "founded": 1939,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/abb.com"
+    },
+    {
+      "id": 152,
+      "name": "Schneider Electric",
+      "domain": "schneider-electric.com",
+      "industry": "Construction",
+      "employees": 12471,
+      "founded": 1916,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/schneider-electric.com"
+    },
+    {
+      "id": 153,
+      "name": "LG Electronics",
+      "domain": "lg-electronics.com",
+      "industry": "Hospitality",
+      "employees": 3336,
+      "founded": 1943,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/lg-electronics.com"
+    },
+    {
+      "id": 154,
+      "name": "Sharp",
+      "domain": "sharp.com",
+      "industry": "Food & Beverage",
+      "employees": 2757,
+      "founded": 1997,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/sharp.com"
+    },
+    {
+      "id": 155,
+      "name": "Canon",
+      "domain": "canon.com",
+      "industry": "Semiconductors",
+      "employees": 15643,
+      "founded": 1940,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/canon.com"
+    },
+    {
+      "id": 156,
+      "name": "Nikon",
+      "domain": "nikon.com",
+      "industry": "Insurance",
+      "employees": 8173,
+      "founded": 1947,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/nikon.com"
+    },
+    {
+      "id": 157,
+      "name": "Fujifilm",
+      "domain": "fujifilm.com",
+      "industry": "Media",
+      "employees": 15976,
+      "founded": 1911,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/fujifilm.com"
+    },
+    {
+      "id": 158,
+      "name": "Epson",
+      "domain": "epson.com",
+      "industry": "Agriculture",
+      "employees": 6940,
+      "founded": 1944,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/epson.com"
+    },
+    {
+      "id": 159,
+      "name": "Hitachi",
+      "domain": "hitachi.com",
+      "industry": "Banking",
+      "employees": 12115,
+      "founded": 1954,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/hitachi.com"
+    },
+    {
+      "id": 160,
+      "name": "Mitsubishi Electric",
+      "domain": "mitsubishi-electric.com",
+      "industry": "Finance",
+      "employees": 140086,
+      "founded": 2010,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/mitsubishi-electric.com"
+    },
+    {
+      "id": 161,
+      "name": "Nokia",
+      "domain": "nokia.com",
+      "industry": "Education",
+      "employees": 212537,
+      "founded": 1977,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/nokia.com"
+    },
+    {
+      "id": 162,
+      "name": "Ericsson",
+      "domain": "ericsson.com",
+      "industry": "Logistics",
+      "employees": 2760,
+      "founded": 1986,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/ericsson.com"
+    },
+    {
+      "id": 163,
+      "name": "Vodafone",
+      "domain": "vodafone.com",
+      "industry": "Food & Beverage",
+      "employees": 6332,
+      "founded": 1955,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/vodafone.com"
+    },
+    {
+      "id": 164,
+      "name": "AT&T",
+      "domain": "atandt.com",
+      "industry": "Telecommunications",
+      "employees": 191830,
+      "founded": 1983,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/atandt.com"
+    },
+    {
+      "id": 165,
+      "name": "Verizon",
+      "domain": "verizon.com",
+      "industry": "Telecommunications",
+      "employees": 7262,
+      "founded": 1991,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/verizon.com"
+    },
+    {
+      "id": 166,
+      "name": "China Mobile",
+      "domain": "china-mobile.com",
+      "industry": "Manufacturing",
+      "employees": 36983,
+      "founded": 1963,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/china-mobile.com"
+    },
+    {
+      "id": 167,
+      "name": "Bharti Airtel",
+      "domain": "bharti-airtel.com",
+      "industry": "E-commerce",
+      "employees": 194091,
+      "founded": 2006,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/bharti-airtel.com"
+    },
+    {
+      "id": 168,
+      "name": "Telstra",
+      "domain": "telstra.com",
+      "industry": "Oil & Gas",
+      "employees": 43747,
+      "founded": 1981,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/telstra.com"
+    },
+    {
+      "id": 169,
+      "name": "BT Group",
+      "domain": "bt-group.com",
+      "industry": "Media",
+      "employees": 7742,
+      "founded": 1986,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/bt-group.com"
+    },
+    {
+      "id": 170,
+      "name": "Orange",
+      "domain": "orange.com",
+      "industry": "Insurance",
+      "employees": 2833,
+      "founded": 1937,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/orange.com"
+    },
+    {
+      "id": 171,
+      "name": "Telefónica",
+      "domain": "telefónica.com",
+      "industry": "Retail",
+      "employees": 14583,
+      "founded": 1935,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/telefónica.com"
+    },
+    {
+      "id": 172,
+      "name": "T-Mobile",
+      "domain": "t-mobile.com",
+      "industry": "Insurance",
+      "employees": 7306,
+      "founded": 1970,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/t-mobile.com"
+    },
+    {
+      "id": 173,
+      "name": "Deutsche Telekom",
+      "domain": "deutsche-telekom.com",
+      "industry": "Food & Beverage",
+      "employees": 18692,
+      "founded": 1984,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/deutsche-telekom.com"
+    },
+    {
+      "id": 174,
+      "name": "McKinsey & Company",
+      "domain": "mckinsey-and-company.com",
+      "industry": "Telecommunications",
+      "employees": 54896,
+      "founded": 1983,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/mckinsey-and-company.com"
+    },
+    {
+      "id": 175,
+      "name": "BCG",
+      "domain": "bcg.com",
+      "industry": "Logistics",
+      "employees": 1555,
+      "founded": 1972,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/bcg.com"
+    },
+    {
+      "id": 176,
+      "name": "Bain & Company",
+      "domain": "bain-and-company.com",
+      "industry": "Manufacturing",
+      "employees": 106784,
+      "founded": 1988,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/bain-and-company.com"
+    },
+    {
+      "id": 177,
+      "name": "Sixt",
+      "domain": "sixt.com",
+      "industry": "Education",
+      "employees": 8879,
+      "founded": 1975,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/sixt.com"
+    },
+    {
+      "id": 178,
+      "name": "DHL",
+      "domain": "dhl.com",
+      "industry": "Pharmaceuticals",
+      "employees": 248209,
+      "founded": 1929,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/dhl.com"
+    },
+    {
+      "id": 179,
+      "name": "FedEx",
+      "domain": "fedex.com",
+      "industry": "Food & Beverage",
+      "employees": 9448,
+      "founded": 1978,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/fedex.com"
+    },
+    {
+      "id": 180,
+      "name": "UPS",
+      "domain": "ups.com",
+      "industry": "Energy",
+      "employees": 18730,
+      "founded": 1987,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/ups.com"
+    },
+    {
+      "id": 181,
+      "name": "Maersk",
+      "domain": "maersk.com",
+      "industry": "Entertainment",
+      "employees": 15073,
+      "founded": 1923,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/maersk.com"
+    },
+    {
+      "id": 182,
+      "name": "CMA CGM",
+      "domain": "cma-cgm.com",
+      "industry": "Mining",
+      "employees": 981,
+      "founded": 1980,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/cma-cgm.com"
+    },
+    {
+      "id": 183,
+      "name": "DB Schenker",
+      "domain": "db-schenker.com",
+      "industry": "Hospitality",
+      "employees": 147855,
+      "founded": 2011,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/db-schenker.com"
+    },
+    {
+      "id": 184,
+      "name": "Delta Air Lines",
+      "domain": "delta-air-lines.com",
+      "industry": "E-commerce",
+      "employees": 211814,
+      "founded": 1916,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/delta-air-lines.com"
+    },
+    {
+      "id": 185,
+      "name": "United Airlines",
+      "domain": "united-airlines.com",
+      "industry": "Education",
+      "employees": 27620,
+      "founded": 1943,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/united-airlines.com"
+    },
+    {
+      "id": 186,
+      "name": "American Airlines",
+      "domain": "american-airlines.com",
+      "industry": "Software Development",
+      "employees": 5135,
+      "founded": 2001,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/american-airlines.com"
+    },
+    {
+      "id": 187,
+      "name": "Qatar Airways",
+      "domain": "qatar-airways.com",
+      "industry": "Semiconductors",
+      "employees": 1329,
+      "founded": 1985,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/qatar-airways.com"
+    },
+    {
+      "id": 188,
+      "name": "Emirates",
+      "domain": "emirates.com",
+      "industry": "Mining",
+      "employees": 297,
+      "founded": 1938,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/emirates.com"
+    },
+    {
+      "id": 189,
+      "name": "Singapore Airlines",
+      "domain": "singapore-airlines.com",
+      "industry": "Education",
+      "employees": 7782,
+      "founded": 1958,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/singapore-airlines.com"
+    },
+    {
+      "id": 190,
+      "name": "Cathay Pacific",
+      "domain": "cathay-pacific.com",
+      "industry": "Food & Beverage",
+      "employees": 6002,
+      "founded": 1970,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/cathay-pacific.com"
+    },
+    {
+      "id": 191,
+      "name": "HSBC",
+      "domain": "hsbc.com",
+      "industry": "Aerospace",
+      "employees": 195597,
+      "founded": 1999,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/hsbc.com"
+    },
+    {
+      "id": 192,
+      "name": "Standard Chartered",
+      "domain": "standard-chartered.com",
+      "industry": "Insurance",
+      "employees": 3792,
+      "founded": 1952,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/standard-chartered.com"
+    },
+    {
+      "id": 193,
+      "name": "State Bank of India",
+      "domain": "state-bank-of-india.com",
+      "industry": "Finance",
+      "employees": 9067,
+      "founded": 1963,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/state-bank-of-india.com"
+    },
+    {
+      "id": 194,
+      "name": "ICICI Bank",
+      "domain": "icici-bank.com",
+      "industry": "Software Development",
+      "employees": 14574,
+      "founded": 1946,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/icici-bank.com"
+    },
+    {
+      "id": 195,
+      "name": "HDFC Bank",
+      "domain": "hdfc-bank.com",
+      "industry": "Automotive",
+      "employees": 93801,
+      "founded": 1945,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/hdfc-bank.com"
+    },
+    {
+      "id": 196,
+      "name": "Kotak Mahindra Bank",
+      "domain": "kotak-mahindra-bank.com",
+      "industry": "Software Development",
+      "employees": 205743,
+      "founded": 2012,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/kotak-mahindra-bank.com"
+    },
+    {
+      "id": 197,
+      "name": "Commonwealth Bank",
+      "domain": "commonwealth-bank.com",
+      "industry": "Retail",
+      "employees": 104489,
+      "founded": 1967,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/commonwealth-bank.com"
+    },
+    {
+      "id": 198,
+      "name": "ANZ",
+      "domain": "anz.com",
+      "industry": "Education",
+      "employees": 4680,
+      "founded": 1985,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/anz.com"
+    },
+    {
+      "id": 199,
+      "name": "Westpac",
+      "domain": "westpac.com",
+      "industry": "Energy",
+      "employees": 228193,
+      "founded": 1975,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/westpac.com"
+    },
+    {
+      "id": 200,
+      "name": "Canadian Imperial Bank of Commerce",
+      "domain": "canadian-imperial-bank-of-commerce.com",
+      "industry": "Transportation",
+      "employees": 42626,
+      "founded": 1996,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/canadian-imperial-bank-of-commerce.com"
+    },
+    {
+      "id": 201,
+      "name": "RBC",
+      "domain": "rbc.com",
+      "industry": "Food & Beverage",
+      "employees": 7541,
+      "founded": 1922,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/rbc.com"
+    },
+    {
+      "id": 202,
+      "name": "Scotiabank",
+      "domain": "scotiabank.com",
+      "industry": "Manufacturing",
+      "employees": 9012,
+      "founded": 1921,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/scotiabank.com"
+    },
+    {
+      "id": 203,
+      "name": "Tel Aviv Stock Exchange",
+      "domain": "tel-aviv-stock-exchange.com",
+      "industry": "Education",
+      "employees": 7170,
+      "founded": 1984,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/tel-aviv-stock-exchange.com"
+    },
+    {
+      "id": 204,
+      "name": "Berkshire Hathaway",
+      "domain": "berkshire-hathaway.com",
+      "industry": "Real Estate",
+      "employees": 1287,
+      "founded": 1937,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/berkshire-hathaway.com"
+    },
+    {
+      "id": 205,
+      "name": "Chipotle",
+      "domain": "chipotle.com",
+      "industry": "Automotive",
+      "employees": 72819,
+      "founded": 1995,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/chipotle.com"
+    },
+    {
+      "id": 206,
+      "name": "Walmart",
+      "domain": "walmart.com",
+      "industry": "Media",
+      "employees": 239522,
+      "founded": 1976,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/walmart.com"
+    },
+    {
+      "id": 207,
+      "name": "Costco",
+      "domain": "costco.com",
+      "industry": "Banking",
+      "employees": 933,
+      "founded": 1945,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/costco.com"
+    },
+    {
+      "id": 208,
+      "name": "Target",
+      "domain": "target.com",
+      "industry": "Hardware",
+      "employees": 8828,
+      "founded": 1997,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/target.com"
+    },
+    {
+      "id": 209,
+      "name": "IKEA Group",
+      "domain": "ikea-group.com",
+      "industry": "Semiconductors",
+      "employees": 232812,
+      "founded": 1943,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/ikea-group.com"
+    },
+    {
+      "id": 210,
+      "name": "Sears (legacy)",
+      "domain": "sears-legacy.com",
+      "industry": "Oil & Gas",
+      "employees": 7211,
+      "founded": 2002,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/sears-legacy.com"
+    },
+    {
+      "id": 211,
+      "name": "Alibaba Cloud",
+      "domain": "alibaba-cloud.com",
+      "industry": "Biotechnology",
+      "employees": 133700,
+      "founded": 2018,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/alibaba-cloud.com"
+    },
+    {
+      "id": 212,
+      "name": "Alipay",
+      "domain": "alipay.com",
+      "industry": "Manufacturing",
+      "employees": 5505,
+      "founded": 1937,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/alipay.com"
+    },
+    {
+      "id": 213,
+      "name": "Sberbank",
+      "domain": "sberbank.com",
+      "industry": "Agriculture",
+      "employees": 6029,
+      "founded": 1918,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/sberbank.com"
+    },
+    {
+      "id": 214,
+      "name": "Aviva",
+      "domain": "aviva.com",
+      "industry": "Retail",
+      "employees": 5581,
+      "founded": 1998,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/aviva.com"
+    },
+    {
+      "id": 215,
+      "name": "AXA",
+      "domain": "axa.com",
+      "industry": "Manufacturing",
+      "employees": 16894,
+      "founded": 1996,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/axa.com"
+    },
+    {
+      "id": 216,
+      "name": "Allianz",
+      "domain": "allianz.com",
+      "industry": "Biotechnology",
+      "employees": 13977,
+      "founded": 1980,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/allianz.com"
+    },
+    {
+      "id": 217,
+      "name": "Prudential",
+      "domain": "prudential.com",
+      "industry": "Construction",
+      "employees": 2366,
+      "founded": 1925,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/prudential.com"
+    },
+    {
+      "id": 218,
+      "name": "AIA Group",
+      "domain": "aia-group.com",
+      "industry": "Construction",
+      "employees": 10985,
+      "founded": 1993,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/aia-group.com"
+    },
+    {
+      "id": 219,
+      "name": "Manulife",
+      "domain": "manulife.com",
+      "industry": "Biotechnology",
+      "employees": 4218,
+      "founded": 1934,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/manulife.com"
+    },
+    {
+      "id": 220,
+      "name": "Sun Life Financial",
+      "domain": "sun-life-financial.com",
+      "industry": "Consulting",
+      "employees": 15287,
+      "founded": 1964,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/sun-life-financial.com"
+    },
+    {
+      "id": 221,
+      "name": "E.ON",
+      "domain": "e-on.com",
+      "industry": "Hardware",
+      "employees": 3627,
+      "founded": 1967,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/e-on.com"
+    },
+    {
+      "id": 222,
+      "name": "Enel",
+      "domain": "enel.com",
+      "industry": "Software Development",
+      "employees": 10378,
+      "founded": 1934,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/enel.com"
+    },
+    {
+      "id": 223,
+      "name": "Gazprom",
+      "domain": "gazprom.com",
+      "industry": "Education",
+      "employees": 95326,
+      "founded": 1981,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/gazprom.com"
+    },
+    {
+      "id": 224,
+      "name": "Rosneft",
+      "domain": "rosneft.com",
+      "industry": "Healthcare",
+      "employees": 1436,
+      "founded": 1926,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/rosneft.com"
+    },
+    {
+      "id": 225,
+      "name": "Suncor",
+      "domain": "suncor.com",
+      "industry": "Mining",
+      "employees": 5884,
+      "founded": 1974,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/suncor.com"
+    },
+    {
+      "id": 226,
+      "name": "Vale",
+      "domain": "vale.com",
+      "industry": "Energy",
+      "employees": 147940,
+      "founded": 1985,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/vale.com"
+    },
+    {
+      "id": 227,
+      "name": "Glencore",
+      "domain": "glencore.com",
+      "industry": "Oil & Gas",
+      "employees": 8587,
+      "founded": 1920,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/glencore.com"
+    },
+    {
+      "id": 228,
+      "name": "BHP",
+      "domain": "bhp.com",
+      "industry": "Automotive",
+      "employees": 121426,
+      "founded": 2000,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/bhp.com"
+    },
+    {
+      "id": 229,
+      "name": "Rio Tinto",
+      "domain": "rio-tinto.com",
+      "industry": "Automotive",
+      "employees": 15766,
+      "founded": 1962,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/rio-tinto.com"
+    },
+    {
+      "id": 230,
+      "name": "Anglo American",
+      "domain": "anglo-american.com",
+      "industry": "Manufacturing",
+      "employees": 1370,
+      "founded": 1983,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/anglo-american.com"
+    },
+    {
+      "id": 231,
+      "name": "Fortescue Metals",
+      "domain": "fortescue-metals.com",
+      "industry": "Transportation",
+      "employees": 89193,
+      "founded": 1975,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/fortescue-metals.com"
+    },
+    {
+      "id": 232,
+      "name": "Barrick Gold",
+      "domain": "barrick-gold.com",
+      "industry": "Logistics",
+      "employees": 4670,
+      "founded": 1927,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/barrick-gold.com"
+    },
+    {
+      "id": 233,
+      "name": "Newmont",
+      "domain": "newmont.com",
+      "industry": "Healthcare",
+      "employees": 4691,
+      "founded": 1944,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/newmont.com"
+    },
+    {
+      "id": 234,
+      "name": "BlackRock",
+      "domain": "blackrock.com",
+      "industry": "Entertainment",
+      "employees": 17522,
+      "founded": 1974,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/blackrock.com"
+    },
+    {
+      "id": 235,
+      "name": "Vanguard",
+      "domain": "vanguard.com",
+      "industry": "Hardware",
+      "employees": 9206,
+      "founded": 1952,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/vanguard.com"
+    },
+    {
+      "id": 236,
+      "name": "State Street",
+      "domain": "state-street.com",
+      "industry": "Semiconductors",
+      "employees": 44629,
+      "founded": 2012,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/state-street.com"
+    },
+    {
+      "id": 237,
+      "name": "Schroders",
+      "domain": "schroders.com",
+      "industry": "Insurance",
+      "employees": 299324,
+      "founded": 1932,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/schroders.com"
+    },
+    {
+      "id": 238,
+      "name": "Legal & General",
+      "domain": "legal-and-general.com",
+      "industry": "Entertainment",
+      "employees": 8358,
+      "founded": 1993,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/legal-and-general.com"
+    },
+    {
+      "id": 239,
+      "name": "Zurich Insurance",
+      "domain": "zurich-insurance.com",
+      "industry": "Construction",
+      "employees": 13836,
+      "founded": 1997,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/zurich-insurance.com"
+    },
+    {
+      "id": 240,
+      "name": "Munich Re",
+      "domain": "munich-re.com",
+      "industry": "Insurance",
+      "employees": 1414,
+      "founded": 1980,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/munich-re.com"
+    },
+    {
+      "id": 241,
+      "name": "Aegon",
+      "domain": "aegon.com",
+      "industry": "Real Estate",
+      "employees": 62625,
+      "founded": 2004,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/aegon.com"
+    },
+    {
+      "id": 242,
+      "name": "MetLife",
+      "domain": "metlife.com",
+      "industry": "Automotive",
+      "employees": 5500,
+      "founded": 1910,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/metlife.com"
+    },
+    {
+      "id": 243,
+      "name": "Prada",
+      "domain": "prada.com",
+      "industry": "Biotechnology",
+      "employees": 14189,
+      "founded": 1916,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/prada.com"
+    },
+    {
+      "id": 244,
+      "name": "Gucci",
+      "domain": "gucci.com",
+      "industry": "Hospitality",
+      "employees": 3844,
+      "founded": 1992,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/gucci.com"
+    },
+    {
+      "id": 245,
+      "name": "Christian Dior",
+      "domain": "christian-dior.com",
+      "industry": "Manufacturing",
+      "employees": 10437,
+      "founded": 2017,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/christian-dior.com"
+    },
+    {
+      "id": 246,
+      "name": "Chanel",
+      "domain": "chanel.com",
+      "industry": "Oil & Gas",
+      "employees": 11276,
+      "founded": 1998,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/chanel.com"
+    },
+    {
+      "id": 247,
+      "name": "Estee Lauder",
+      "domain": "estee-lauder.com",
+      "industry": "Healthcare",
+      "employees": 251747,
+      "founded": 1925,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/estee-lauder.com"
+    },
+    {
+      "id": 248,
+      "name": "Kering",
+      "domain": "kering.com",
+      "industry": "Healthcare",
+      "employees": 375,
+      "founded": 1997,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/kering.com"
+    },
+    {
+      "id": 249,
+      "name": "Ferrari",
+      "domain": "ferrari.com",
+      "industry": "Automotive",
+      "employees": 4468,
+      "founded": 1947,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/ferrari.com"
+    },
+    {
+      "id": 250,
+      "name": "General Motors Financial",
+      "domain": "general-motors-financial.com",
+      "industry": "Construction",
+      "employees": 293212,
+      "founded": 2017,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/general-motors-financial.com"
+    },
+    {
+      "id": 251,
+      "name": "LG Chem",
+      "domain": "lg-chem.com",
+      "industry": "Banking",
+      "employees": 15194,
+      "founded": 1981,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/lg-chem.com"
+    },
+    {
+      "id": 252,
+      "name": "Sasol",
+      "domain": "sasol.com",
+      "industry": "Real Estate",
+      "employees": 222619,
+      "founded": 2002,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/sasol.com"
+    },
+    {
+      "id": 253,
+      "name": "Ineos",
+      "domain": "ineos.com",
+      "industry": "Software Development",
+      "employees": 4407,
+      "founded": 1975,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/ineos.com"
+    },
+    {
+      "id": 254,
+      "name": "ArcelorMittal",
+      "domain": "arcelormittal.com",
+      "industry": "Agriculture",
+      "employees": 2976,
+      "founded": 1911,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/arcelormittal.com"
+    },
+    {
+      "id": 255,
+      "name": "Posco",
+      "domain": "posco.com",
+      "industry": "Hospitality",
+      "employees": 2271,
+      "founded": 1940,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/posco.com"
+    },
+    {
+      "id": 256,
+      "name": "SK Hynix",
+      "domain": "sk-hynix.com",
+      "industry": "Software Development",
+      "employees": 30293,
+      "founded": 2000,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/sk-hynix.com"
+    },
+    {
+      "id": 257,
+      "name": "Nissan Motor",
+      "domain": "nissan-motor.com",
+      "industry": "Transportation",
+      "employees": 12223,
+      "founded": 1918,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/nissan-motor.com"
+    },
+    {
+      "id": 258,
+      "name": "Mazda",
+      "domain": "mazda.com",
+      "industry": "Aerospace",
+      "employees": 1431,
+      "founded": 1967,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/mazda.com"
+    },
+    {
+      "id": 259,
+      "name": "Subaru",
+      "domain": "subaru.com",
+      "industry": "Media",
+      "employees": 3914,
+      "founded": 1937,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/subaru.com"
+    },
+    {
+      "id": 260,
+      "name": "Isuzu",
+      "domain": "isuzu.com",
+      "industry": "Energy",
+      "employees": 9430,
+      "founded": 2003,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/isuzu.com"
+    },
+    {
+      "id": 261,
+      "name": "Kawasaki Heavy Industries",
+      "domain": "kawasaki-heavy-industries.com",
+      "industry": "Education",
+      "employees": 5669,
+      "founded": 1967,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/kawasaki-heavy-industries.com"
+    },
+    {
+      "id": 262,
+      "name": "Komatsu",
+      "domain": "komatsu.com",
+      "industry": "Agriculture",
+      "employees": 1867,
+      "founded": 1932,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/komatsu.com"
+    },
+    {
+      "id": 263,
+      "name": "Sumitomo",
+      "domain": "sumitomo.com",
+      "industry": "Manufacturing",
+      "employees": 7338,
+      "founded": 1957,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/sumitomo.com"
+    },
+    {
+      "id": 264,
+      "name": "Mitsui",
+      "domain": "mitsui.com",
+      "industry": "Cloud Services",
+      "employees": 12285,
+      "founded": 1991,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/mitsui.com"
+    },
+    {
+      "id": 265,
+      "name": "Isetan",
+      "domain": "isetan.com",
+      "industry": "Entertainment",
+      "employees": 2223,
+      "founded": 2008,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/isetan.com"
+    },
+    {
+      "id": 266,
+      "name": "Aeon",
+      "domain": "aeon.com",
+      "industry": "Aerospace",
+      "employees": 1778,
+      "founded": 1969,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/aeon.com"
+    },
+    {
+      "id": 267,
+      "name": "Rakuten Bank",
+      "domain": "rakuten-bank.com",
+      "industry": "Banking",
+      "employees": 125623,
+      "founded": 1976,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/rakuten-bank.com"
+    },
+    {
+      "id": 268,
+      "name": "Mercado Libre",
+      "domain": "mercado-libre.com",
+      "industry": "Healthcare",
+      "employees": 3729,
+      "founded": 1920,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/mercado-libre.com"
+    },
+    {
+      "id": 269,
+      "name": "Bumble",
+      "domain": "bumble.com",
+      "industry": "Banking",
+      "employees": 200166,
+      "founded": 2013,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/bumble.com"
+    },
+    {
+      "id": 270,
+      "name": "DoorDash",
+      "domain": "doordash.com",
+      "industry": "Transportation",
+      "employees": 18285,
+      "founded": 1976,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/doordash.com"
+    },
+    {
+      "id": 271,
+      "name": "Instacart",
+      "domain": "instacart.com",
+      "industry": "Food & Beverage",
+      "employees": 3019,
+      "founded": 1937,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/instacart.com"
+    },
+    {
+      "id": 272,
+      "name": "Etsy",
+      "domain": "etsy.com",
+      "industry": "Hardware",
+      "employees": 13539,
+      "founded": 1975,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/etsy.com"
+    },
+    {
+      "id": 273,
+      "name": "Klarna",
+      "domain": "klarna.com",
+      "industry": "Hardware",
+      "employees": 165651,
+      "founded": 1991,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/klarna.com"
+    },
+    {
+      "id": 274,
+      "name": "Adyen",
+      "domain": "adyen.com",
+      "industry": "Telecommunications",
+      "employees": 3140,
+      "founded": 1998,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/adyen.com"
+    },
+    {
+      "id": 275,
+      "name": "PayPal",
+      "domain": "paypal.com",
+      "industry": "Manufacturing",
+      "employees": 6700,
+      "founded": 2004,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/paypal.com"
+    },
+    {
+      "id": 276,
+      "name": "NVIDIA",
+      "domain": "nvidia.com",
+      "industry": "Insurance",
+      "employees": 6333,
+      "founded": 1932,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/nvidia.com"
+    },
+    {
+      "id": 277,
+      "name": "ARM Holdings",
+      "domain": "arm-holdings.com",
+      "industry": "Aerospace",
+      "employees": 2010,
+      "founded": 2004,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/arm-holdings.com"
+    },
+    {
+      "id": 278,
+      "name": "Infosys BPM",
+      "domain": "infosys-bpm.com",
+      "industry": "Pharmaceuticals",
+      "employees": 167383,
+      "founded": 1934,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/infosys-bpm.com"
+    },
+    {
+      "id": 279,
+      "name": "Capgemini",
+      "domain": "capgemini.com",
+      "industry": "Banking",
+      "employees": 4860,
+      "founded": 1970,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/capgemini.com"
+    },
+    {
+      "id": 280,
+      "name": "TCS",
+      "domain": "tcs.com",
+      "industry": "Healthcare",
+      "employees": 5263,
+      "founded": 1970,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/tcs.com"
+    },
+    {
+      "id": 281,
+      "name": "Fujitsu",
+      "domain": "fujitsu.com",
+      "industry": "Food & Beverage",
+      "employees": 172093,
+      "founded": 2005,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/fujitsu.com"
+    },
+    {
+      "id": 282,
+      "name": "NEC",
+      "domain": "nec.com",
+      "industry": "Automotive",
+      "employees": 17438,
+      "founded": 1983,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/nec.com"
+    },
+    {
+      "id": 283,
+      "name": "Softbank Vision Fund",
+      "domain": "softbank-vision-fund.com",
+      "industry": "E-commerce",
+      "employees": 6236,
+      "founded": 1959,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/softbank-vision-fund.com"
+    },
+    {
+      "id": 284,
+      "name": "ABBYY",
+      "domain": "abbyy.com",
+      "industry": "Food & Beverage",
+      "employees": 7917,
+      "founded": 1991,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/abbyy.com"
+    },
+    {
+      "id": 285,
+      "name": "Yandex",
+      "domain": "yandex.com",
+      "industry": "Real Estate",
+      "employees": 229317,
+      "founded": 1980,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/yandex.com"
+    },
+    {
+      "id": 286,
+      "name": "RBC Capital Markets",
+      "domain": "rbc-capital-markets.com",
+      "industry": "Pharmaceuticals",
+      "employees": 263304,
+      "founded": 1983,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/rbc-capital-markets.com"
+    },
+    {
+      "id": 287,
+      "name": "OXXO",
+      "domain": "oxxo.com",
+      "industry": "Finance",
+      "employees": 9404,
+      "founded": 1915,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/oxxo.com"
+    },
+    {
+      "id": 288,
+      "name": "Petronas",
+      "domain": "petronas.com",
+      "industry": "Manufacturing",
+      "employees": 1766,
+      "founded": 2011,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/petronas.com"
+    },
+    {
+      "id": 289,
+      "name": "Sasol",
+      "domain": "sasol.com",
+      "industry": "Finance",
+      "employees": 7769,
+      "founded": 1969,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/sasol.com"
+    },
+    {
+      "id": 290,
+      "name": "MTN Group",
+      "domain": "mtn-group.com",
+      "industry": "Biotechnology",
+      "employees": 14627,
+      "founded": 1980,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/mtn-group.com"
+    },
+    {
+      "id": 291,
+      "name": "Vodacom",
+      "domain": "vodacom.com",
+      "industry": "Cloud Services",
+      "employees": 3139,
+      "founded": 1936,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/vodacom.com"
+    },
+    {
+      "id": 292,
+      "name": "Nokia Networks",
+      "domain": "nokia-networks.com",
+      "industry": "Aerospace",
+      "employees": 13377,
+      "founded": 1942,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/nokia-networks.com"
+    },
+    {
+      "id": 293,
+      "name": "Vantage Capital LATAM 293",
+      "domain": "vantage-capital-latam-293.com",
+      "industry": "Construction",
+      "employees": 3598,
+      "founded": 1965,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/vantage-capital-latam-293.com"
+    },
+    {
+      "id": 294,
+      "name": "Blue Studios International 294",
+      "domain": "blue-studios-international-294.com",
+      "industry": "Logistics",
+      "employees": 4125,
+      "founded": 2016,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/blue-studios-international-294.com"
+    },
+    {
+      "id": 295,
+      "name": "Global Healthcare Global 295",
+      "domain": "global-healthcare-global-295.com",
+      "industry": "Cybersecurity",
+      "employees": 101549,
+      "founded": 1961,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/global-healthcare-global-295.com"
+    },
+    {
+      "id": 296,
+      "name": "Nexa Enterprises Asia 296",
+      "domain": "nexa-enterprises-asia-296.com",
+      "industry": "Banking",
+      "employees": 43917,
+      "founded": 2006,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/nexa-enterprises-asia-296.com"
+    },
+    {
+      "id": 297,
+      "name": "Global Pharma Asia 297",
+      "domain": "global-pharma-asia-297.com",
+      "industry": "Retail",
+      "employees": 62095,
+      "founded": 1983,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/global-pharma-asia-297.com"
+    },
+    {
+      "id": 298,
+      "name": "Blue Foods Asia 298",
+      "domain": "blue-foods-asia-298.com",
+      "industry": "Mining",
+      "employees": 111473,
+      "founded": 1964,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/blue-foods-asia-298.com"
+    },
+    {
+      "id": 299,
+      "name": "Pioneer Enterprises EMEA 299",
+      "domain": "pioneer-enterprises-emea-299.com",
+      "industry": "Hospitality",
+      "employees": 1930,
+      "founded": 1969,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/pioneer-enterprises-emea-299.com"
+    },
+    {
+      "id": 300,
+      "name": "Vantage Logistics International 300",
+      "domain": "vantage-logistics-international-300.com",
+      "industry": "Manufacturing",
+      "employees": 1708,
+      "founded": 1991,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/vantage-logistics-international-300.com"
+    },
+    {
+      "id": 301,
+      "name": "Vantage Consulting EMEA 301",
+      "domain": "vantage-consulting-emea-301.com",
+      "industry": "Media",
+      "employees": 15017,
+      "founded": 1967,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/vantage-consulting-emea-301.com"
+    },
+    {
+      "id": 302,
+      "name": "Prime Labs America 302",
+      "domain": "prime-labs-america-302.com",
+      "industry": "Education",
+      "employees": 11597,
+      "founded": 1953,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/prime-labs-america-302.com"
+    },
+    {
+      "id": 303,
+      "name": "Orion Holdings Europe 303",
+      "domain": "orion-holdings-europe-303.com",
+      "industry": "Entertainment",
+      "employees": 102563,
+      "founded": 1995,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/orion-holdings-europe-303.com"
+    },
+    {
+      "id": 304,
+      "name": "Silver Systems Global 304",
+      "domain": "silver-systems-global-304.com",
+      "industry": "Real Estate",
+      "employees": 4548,
+      "founded": 1950,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/silver-systems-global-304.com"
+    },
+    {
+      "id": 305,
+      "name": "Green Dynamics Africa 305",
+      "domain": "green-dynamics-africa-305.com",
+      "industry": "Aerospace",
+      "employees": 3191,
+      "founded": 2021,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/green-dynamics-africa-305.com"
+    },
+    {
+      "id": 306,
+      "name": "Silver Healthcare America 306",
+      "domain": "silver-healthcare-america-306.com",
+      "industry": "Logistics",
+      "employees": 16252,
+      "founded": 1997,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/silver-healthcare-america-306.com"
+    },
+    {
+      "id": 307,
+      "name": "Core Technologies International 307",
+      "domain": "core-technologies-international-307.com",
+      "industry": "Cybersecurity",
+      "employees": 4284,
+      "founded": 1988,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/core-technologies-international-307.com"
+    },
+    {
+      "id": 308,
+      "name": "Prime Networks Global 308",
+      "domain": "prime-networks-global-308.com",
+      "industry": "Consumer Goods",
+      "employees": 11355,
+      "founded": 1999,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/prime-networks-global-308.com"
+    },
+    {
+      "id": 309,
+      "name": "Silver Dynamics International 309",
+      "domain": "silver-dynamics-international-309.com",
+      "industry": "Hardware",
+      "employees": 15514,
+      "founded": 1982,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/silver-dynamics-international-309.com"
+    },
+    {
+      "id": 310,
+      "name": "Atlas Studios Europe 310",
+      "domain": "atlas-studios-europe-310.com",
+      "industry": "Banking",
+      "employees": 1278,
+      "founded": 1991,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/atlas-studios-europe-310.com"
+    },
+    {
+      "id": 311,
+      "name": "Golden Networks LATAM 311",
+      "domain": "golden-networks-latam-311.com",
+      "industry": "Food & Beverage",
+      "employees": 152183,
+      "founded": 1999,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/golden-networks-latam-311.com"
+    },
+    {
+      "id": 312,
+      "name": "Atlas Studios EMEA 312",
+      "domain": "atlas-studios-emea-312.com",
+      "industry": "Biotechnology",
+      "employees": 827,
+      "founded": 1958,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/atlas-studios-emea-312.com"
+    },
+    {
+      "id": 313,
+      "name": "Peak Energy America 313",
+      "domain": "peak-energy-america-313.com",
+      "industry": "Finance",
+      "employees": 170258,
+      "founded": 2022,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/peak-energy-america-313.com"
+    },
+    {
+      "id": 314,
+      "name": "Green Studios Africa 314",
+      "domain": "green-studios-africa-314.com",
+      "industry": "Hardware",
+      "employees": 1441,
+      "founded": 1998,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/green-studios-africa-314.com"
+    },
+    {
+      "id": 315,
+      "name": "Vantage Healthcare Asia 315",
+      "domain": "vantage-healthcare-asia-315.com",
+      "industry": "Entertainment",
+      "employees": 1738,
+      "founded": 2013,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/vantage-healthcare-asia-315.com"
+    },
+    {
+      "id": 316,
+      "name": "Orion Enterprises Europe 316",
+      "domain": "orion-enterprises-europe-316.com",
+      "industry": "Consumer Goods",
+      "employees": 89969,
+      "founded": 2004,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/orion-enterprises-europe-316.com"
+    },
+    {
+      "id": 317,
+      "name": "Nova Logistics America 317",
+      "domain": "nova-logistics-america-317.com",
+      "industry": "Entertainment",
+      "employees": 11765,
+      "founded": 1995,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/nova-logistics-america-317.com"
+    },
+    {
+      "id": 318,
+      "name": "Prime Systems America 318",
+      "domain": "prime-systems-america-318.com",
+      "industry": "Software Development",
+      "employees": 7351,
+      "founded": 1984,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/prime-systems-america-318.com"
+    },
+    {
+      "id": 319,
+      "name": "Pioneer Systems America 319",
+      "domain": "pioneer-systems-america-319.com",
+      "industry": "Banking",
+      "employees": 19452,
+      "founded": 1969,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/pioneer-systems-america-319.com"
+    },
+    {
+      "id": 320,
+      "name": "Green Industries Asia 320",
+      "domain": "green-industries-asia-320.com",
+      "industry": "Finance",
+      "employees": 7910,
+      "founded": 2017,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/green-industries-asia-320.com"
+    },
+    {
+      "id": 321,
+      "name": "Nova Foods EMEA 321",
+      "domain": "nova-foods-emea-321.com",
+      "industry": "Entertainment",
+      "employees": 4650,
+      "founded": 1953,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/nova-foods-emea-321.com"
+    },
+    {
+      "id": 322,
+      "name": "Summit Capital International 322",
+      "domain": "summit-capital-international-322.com",
+      "industry": "Finance",
+      "employees": 126049,
+      "founded": 2022,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/summit-capital-international-322.com"
+    },
+    {
+      "id": 323,
+      "name": "Zenith Capital LATAM 323",
+      "domain": "zenith-capital-latam-323.com",
+      "industry": "Food & Beverage",
+      "employees": 233,
+      "founded": 1956,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/zenith-capital-latam-323.com"
+    },
+    {
+      "id": 324,
+      "name": "Core Logistics Europe 324",
+      "domain": "core-logistics-europe-324.com",
+      "industry": "Banking",
+      "employees": 178036,
+      "founded": 2000,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/core-logistics-europe-324.com"
+    },
+    {
+      "id": 325,
+      "name": "Golden Holdings APAC 325",
+      "domain": "golden-holdings-apac-325.com",
+      "industry": "E-commerce",
+      "employees": 2541,
+      "founded": 1953,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/golden-holdings-apac-325.com"
+    },
+    {
+      "id": 326,
+      "name": "Summit Logistics Asia 326",
+      "domain": "summit-logistics-asia-326.com",
+      "industry": "Consulting",
+      "employees": 5216,
+      "founded": 2011,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/summit-logistics-asia-326.com"
+    },
+    {
+      "id": 327,
+      "name": "Nova Studios International 327",
+      "domain": "nova-studios-international-327.com",
+      "industry": "Telecommunications",
+      "employees": 45345,
+      "founded": 2019,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/nova-studios-international-327.com"
+    },
+    {
+      "id": 328,
+      "name": "Orion Solutions America 328",
+      "domain": "orion-solutions-america-328.com",
+      "industry": "Manufacturing",
+      "employees": 4641,
+      "founded": 1980,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/orion-solutions-america-328.com"
+    },
+    {
+      "id": 329,
+      "name": "Nova Energy International 329",
+      "domain": "nova-energy-international-329.com",
+      "industry": "Automotive",
+      "employees": 301,
+      "founded": 1959,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/nova-energy-international-329.com"
+    },
+    {
+      "id": 330,
+      "name": "Zenith Technologies LATAM 330",
+      "domain": "zenith-technologies-latam-330.com",
+      "industry": "Entertainment",
+      "employees": 12648,
+      "founded": 1971,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/zenith-technologies-latam-330.com"
+    },
+    {
+      "id": 331,
+      "name": "Apex Consulting America 331",
+      "domain": "apex-consulting-america-331.com",
+      "industry": "Media",
+      "employees": 172820,
+      "founded": 1956,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/apex-consulting-america-331.com"
+    },
+    {
+      "id": 332,
+      "name": "Pioneer Healthcare LATAM 332",
+      "domain": "pioneer-healthcare-latam-332.com",
+      "industry": "Mining",
+      "employees": 122475,
+      "founded": 1965,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/pioneer-healthcare-latam-332.com"
+    },
+    {
+      "id": 333,
+      "name": "Golden Holdings America 333",
+      "domain": "golden-holdings-america-333.com",
+      "industry": "Construction",
+      "employees": 5455,
+      "founded": 2006,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/golden-holdings-america-333.com"
+    },
+    {
+      "id": 334,
+      "name": "Vertex Labs EMEA 334",
+      "domain": "vertex-labs-emea-334.com",
+      "industry": "Construction",
+      "employees": 39426,
+      "founded": 1969,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/vertex-labs-emea-334.com"
+    },
+    {
+      "id": 335,
+      "name": "Nova Industries LATAM 335",
+      "domain": "nova-industries-latam-335.com",
+      "industry": "Manufacturing",
+      "employees": 185055,
+      "founded": 1981,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/nova-industries-latam-335.com"
+    },
+    {
+      "id": 336,
+      "name": "Atlas Solutions Europe 336",
+      "domain": "atlas-solutions-europe-336.com",
+      "industry": "Entertainment",
+      "employees": 15929,
+      "founded": 2021,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/atlas-solutions-europe-336.com"
+    },
+    {
+      "id": 337,
+      "name": "Prime Foods International 337",
+      "domain": "prime-foods-international-337.com",
+      "industry": "Construction",
+      "employees": 17452,
+      "founded": 1981,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/prime-foods-international-337.com"
+    },
+    {
+      "id": 338,
+      "name": "Vertex Technologies APAC 338",
+      "domain": "vertex-technologies-apac-338.com",
+      "industry": "E-commerce",
+      "employees": 2260,
+      "founded": 1956,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/vertex-technologies-apac-338.com"
+    },
+    {
+      "id": 339,
+      "name": "Vantage Healthcare Asia 339",
+      "domain": "vantage-healthcare-asia-339.com",
+      "industry": "Manufacturing",
+      "employees": 3224,
+      "founded": 1951,
+      "location": "Australia",
+      "logoUrl": "https://logo.clearbit.com/vantage-healthcare-asia-339.com"
+    },
+    {
+      "id": 340,
+      "name": "Pioneer Labs Europe 340",
+      "domain": "pioneer-labs-europe-340.com",
+      "industry": "Real Estate",
+      "employees": 541,
+      "founded": 2007,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/pioneer-labs-europe-340.com"
+    },
+    {
+      "id": 341,
+      "name": "Global Logistics International 341",
+      "domain": "global-logistics-international-341.com",
+      "industry": "Pharmaceuticals",
+      "employees": 18120,
+      "founded": 1956,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/global-logistics-international-341.com"
+    },
+    {
+      "id": 342,
+      "name": "Orion Logistics International 342",
+      "domain": "orion-logistics-international-342.com",
+      "industry": "Entertainment",
+      "employees": 2667,
+      "founded": 1950,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/orion-logistics-international-342.com"
+    },
+    {
+      "id": 343,
+      "name": "Vantage Holdings Africa 343",
+      "domain": "vantage-holdings-africa-343.com",
+      "industry": "Retail",
+      "employees": 1101,
+      "founded": 1964,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/vantage-holdings-africa-343.com"
+    },
+    {
+      "id": 344,
+      "name": "Apex Systems Europe 344",
+      "domain": "apex-systems-europe-344.com",
+      "industry": "Pharmaceuticals",
+      "employees": 7262,
+      "founded": 2018,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/apex-systems-europe-344.com"
+    },
+    {
+      "id": 345,
+      "name": "Green Pharma America 345",
+      "domain": "green-pharma-america-345.com",
+      "industry": "Mining",
+      "employees": 124669,
+      "founded": 2018,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/green-pharma-america-345.com"
+    },
+    {
+      "id": 346,
+      "name": "Zenith Studios America 346",
+      "domain": "zenith-studios-america-346.com",
+      "industry": "Banking",
+      "employees": 60371,
+      "founded": 2009,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/zenith-studios-america-346.com"
+    },
+    {
+      "id": 347,
+      "name": "Vertex Foods EMEA 347",
+      "domain": "vertex-foods-emea-347.com",
+      "industry": "Oil & Gas",
+      "employees": 2920,
+      "founded": 1986,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/vertex-foods-emea-347.com"
+    },
+    {
+      "id": 348,
+      "name": "Atlas Solutions Asia 348",
+      "domain": "atlas-solutions-asia-348.com",
+      "industry": "Manufacturing",
+      "employees": 174345,
+      "founded": 1999,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/atlas-solutions-asia-348.com"
+    },
+    {
+      "id": 349,
+      "name": "Nova Pharma Asia 349",
+      "domain": "nova-pharma-asia-349.com",
+      "industry": "Pharmaceuticals",
+      "employees": 13825,
+      "founded": 2021,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/nova-pharma-asia-349.com"
+    },
+    {
+      "id": 350,
+      "name": "Nova Holdings Europe 350",
+      "domain": "nova-holdings-europe-350.com",
+      "industry": "Consulting",
+      "employees": 9373,
+      "founded": 1961,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/nova-holdings-europe-350.com"
+    },
+    {
+      "id": 351,
+      "name": "Atlas Networks APAC 351",
+      "domain": "atlas-networks-apac-351.com",
+      "industry": "Cybersecurity",
+      "employees": 2923,
+      "founded": 1970,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/atlas-networks-apac-351.com"
+    },
+    {
+      "id": 352,
+      "name": "Prime Consulting APAC 352",
+      "domain": "prime-consulting-apac-352.com",
+      "industry": "Manufacturing",
+      "employees": 4000,
+      "founded": 2012,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/prime-consulting-apac-352.com"
+    },
+    {
+      "id": 353,
+      "name": "Blue Labs Europe 353",
+      "domain": "blue-labs-europe-353.com",
+      "industry": "Aerospace",
+      "employees": 15674,
+      "founded": 2014,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/blue-labs-europe-353.com"
+    },
+    {
+      "id": 354,
+      "name": "Pioneer Networks Europe 354",
+      "domain": "pioneer-networks-europe-354.com",
+      "industry": "Logistics",
+      "employees": 18219,
+      "founded": 1975,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/pioneer-networks-europe-354.com"
+    },
+    {
+      "id": 355,
+      "name": "Vertex Solutions America 355",
+      "domain": "vertex-solutions-america-355.com",
+      "industry": "Telecommunications",
+      "employees": 77904,
+      "founded": 1976,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/vertex-solutions-america-355.com"
+    },
+    {
+      "id": 356,
+      "name": "Atlas Energy Global 356",
+      "domain": "atlas-energy-global-356.com",
+      "industry": "Food & Beverage",
+      "employees": 10815,
+      "founded": 2004,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/atlas-energy-global-356.com"
+    },
+    {
+      "id": 357,
+      "name": "Nexa Dynamics LATAM 357",
+      "domain": "nexa-dynamics-latam-357.com",
+      "industry": "Logistics",
+      "employees": 1796,
+      "founded": 2021,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/nexa-dynamics-latam-357.com"
+    },
+    {
+      "id": 358,
+      "name": "Green Networks Global 358",
+      "domain": "green-networks-global-358.com",
+      "industry": "Media",
+      "employees": 116317,
+      "founded": 1979,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/green-networks-global-358.com"
+    },
+    {
+      "id": 359,
+      "name": "Pioneer Capital Africa 359",
+      "domain": "pioneer-capital-africa-359.com",
+      "industry": "Software Development",
+      "employees": 9278,
+      "founded": 2009,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/pioneer-capital-africa-359.com"
+    },
+    {
+      "id": 360,
+      "name": "Nexa Logistics LATAM 360",
+      "domain": "nexa-logistics-latam-360.com",
+      "industry": "Cybersecurity",
+      "employees": 533,
+      "founded": 2020,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/nexa-logistics-latam-360.com"
+    },
+    {
+      "id": 361,
+      "name": "Atlas Systems EMEA 361",
+      "domain": "atlas-systems-emea-361.com",
+      "industry": "Aerospace",
+      "employees": 184309,
+      "founded": 1964,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/atlas-systems-emea-361.com"
+    },
+    {
+      "id": 362,
+      "name": "Vantage Capital Asia 362",
+      "domain": "vantage-capital-asia-362.com",
+      "industry": "Retail",
+      "employees": 19479,
+      "founded": 2005,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/vantage-capital-asia-362.com"
+    },
+    {
+      "id": 363,
+      "name": "Atlas Networks Asia 363",
+      "domain": "atlas-networks-asia-363.com",
+      "industry": "Semiconductors",
+      "employees": 194990,
+      "founded": 1980,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/atlas-networks-asia-363.com"
+    },
+    {
+      "id": 364,
+      "name": "Core Dynamics Asia 364",
+      "domain": "core-dynamics-asia-364.com",
+      "industry": "Finance",
+      "employees": 3584,
+      "founded": 1984,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/core-dynamics-asia-364.com"
+    },
+    {
+      "id": 365,
+      "name": "Green Consulting Global 365",
+      "domain": "green-consulting-global-365.com",
+      "industry": "Software Development",
+      "employees": 50862,
+      "founded": 1976,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/green-consulting-global-365.com"
+    },
+    {
+      "id": 366,
+      "name": "Orion Labs Africa 366",
+      "domain": "orion-labs-africa-366.com",
+      "industry": "Finance",
+      "employees": 119778,
+      "founded": 2014,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/orion-labs-africa-366.com"
+    },
+    {
+      "id": 367,
+      "name": "Atlas Solutions APAC 367",
+      "domain": "atlas-solutions-apac-367.com",
+      "industry": "Finance",
+      "employees": 190922,
+      "founded": 2012,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/atlas-solutions-apac-367.com"
+    },
+    {
+      "id": 368,
+      "name": "Zenith Enterprises APAC 368",
+      "domain": "zenith-enterprises-apac-368.com",
+      "industry": "Insurance",
+      "employees": 143897,
+      "founded": 1990,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/zenith-enterprises-apac-368.com"
+    },
+    {
+      "id": 369,
+      "name": "Core Logistics APAC 369",
+      "domain": "core-logistics-apac-369.com",
+      "industry": "Hospitality",
+      "employees": 47308,
+      "founded": 1985,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/core-logistics-apac-369.com"
+    },
+    {
+      "id": 370,
+      "name": "Green Energy Africa 370",
+      "domain": "green-energy-africa-370.com",
+      "industry": "Media",
+      "employees": 2984,
+      "founded": 1954,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/green-energy-africa-370.com"
+    },
+    {
+      "id": 371,
+      "name": "Green Technologies Asia 371",
+      "domain": "green-technologies-asia-371.com",
+      "industry": "Hardware",
+      "employees": 121,
+      "founded": 1968,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/green-technologies-asia-371.com"
+    },
+    {
+      "id": 372,
+      "name": "Vantage Works EMEA 372",
+      "domain": "vantage-works-emea-372.com",
+      "industry": "Hospitality",
+      "employees": 137257,
+      "founded": 1956,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/vantage-works-emea-372.com"
+    },
+    {
+      "id": 373,
+      "name": "Apex Capital Europe 373",
+      "domain": "apex-capital-europe-373.com",
+      "industry": "Retail",
+      "employees": 2708,
+      "founded": 1984,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/apex-capital-europe-373.com"
+    },
+    {
+      "id": 374,
+      "name": "Green Labs LATAM 374",
+      "domain": "green-labs-latam-374.com",
+      "industry": "Finance",
+      "employees": 352,
+      "founded": 1995,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/green-labs-latam-374.com"
+    },
+    {
+      "id": 375,
+      "name": "Pioneer Systems International 375",
+      "domain": "pioneer-systems-international-375.com",
+      "industry": "Hospitality",
+      "employees": 5065,
+      "founded": 1977,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/pioneer-systems-international-375.com"
+    },
+    {
+      "id": 376,
+      "name": "Core Foods EMEA 376",
+      "domain": "core-foods-emea-376.com",
+      "industry": "Finance",
+      "employees": 191273,
+      "founded": 1989,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/core-foods-emea-376.com"
+    },
+    {
+      "id": 377,
+      "name": "Nova Consulting America 377",
+      "domain": "nova-consulting-america-377.com",
+      "industry": "E-commerce",
+      "employees": 3093,
+      "founded": 1996,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/nova-consulting-america-377.com"
+    },
+    {
+      "id": 378,
+      "name": "Silver Consulting APAC 378",
+      "domain": "silver-consulting-apac-378.com",
+      "industry": "Telecommunications",
+      "employees": 163462,
+      "founded": 2013,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/silver-consulting-apac-378.com"
+    },
+    {
+      "id": 379,
+      "name": "Global Pharma Europe 379",
+      "domain": "global-pharma-europe-379.com",
+      "industry": "Consumer Goods",
+      "employees": 1832,
+      "founded": 1998,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/global-pharma-europe-379.com"
+    },
+    {
+      "id": 380,
+      "name": "Nexa Logistics International 380",
+      "domain": "nexa-logistics-international-380.com",
+      "industry": "Cybersecurity",
+      "employees": 1626,
+      "founded": 2001,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/nexa-logistics-international-380.com"
+    },
+    {
+      "id": 381,
+      "name": "Golden Systems EMEA 381",
+      "domain": "golden-systems-emea-381.com",
+      "industry": "Energy",
+      "employees": 15288,
+      "founded": 1960,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/golden-systems-emea-381.com"
+    },
+    {
+      "id": 382,
+      "name": "Prime Technologies Asia 382",
+      "domain": "prime-technologies-asia-382.com",
+      "industry": "Retail",
+      "employees": 13292,
+      "founded": 2015,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/prime-technologies-asia-382.com"
+    },
+    {
+      "id": 383,
+      "name": "Global Logistics Asia 383",
+      "domain": "global-logistics-asia-383.com",
+      "industry": "Aerospace",
+      "employees": 202,
+      "founded": 1959,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/global-logistics-asia-383.com"
+    },
+    {
+      "id": 384,
+      "name": "Nexa Capital EMEA 384",
+      "domain": "nexa-capital-emea-384.com",
+      "industry": "Cloud Services",
+      "employees": 10711,
+      "founded": 2007,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/nexa-capital-emea-384.com"
+    },
+    {
+      "id": 385,
+      "name": "Core Labs APAC 385",
+      "domain": "core-labs-apac-385.com",
+      "industry": "Healthcare",
+      "employees": 199263,
+      "founded": 1977,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/core-labs-apac-385.com"
+    },
+    {
+      "id": 386,
+      "name": "Atlas Logistics International 386",
+      "domain": "atlas-logistics-international-386.com",
+      "industry": "Education",
+      "employees": 3390,
+      "founded": 1998,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/atlas-logistics-international-386.com"
+    },
+    {
+      "id": 387,
+      "name": "Atlas Industries APAC 387",
+      "domain": "atlas-industries-apac-387.com",
+      "industry": "Cloud Services",
+      "employees": 90,
+      "founded": 2021,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/atlas-industries-apac-387.com"
+    },
+    {
+      "id": 388,
+      "name": "Golden Healthcare Africa 388",
+      "domain": "golden-healthcare-africa-388.com",
+      "industry": "Oil & Gas",
+      "employees": 864,
+      "founded": 2017,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/golden-healthcare-africa-388.com"
+    },
+    {
+      "id": 389,
+      "name": "Pioneer Pharma LATAM 389",
+      "domain": "pioneer-pharma-latam-389.com",
+      "industry": "Consulting",
+      "employees": 57620,
+      "founded": 1973,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/pioneer-pharma-latam-389.com"
+    },
+    {
+      "id": 390,
+      "name": "Golden Technologies Global 390",
+      "domain": "golden-technologies-global-390.com",
+      "industry": "Cloud Services",
+      "employees": 14048,
+      "founded": 1984,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/golden-technologies-global-390.com"
+    },
+    {
+      "id": 391,
+      "name": "Zenith Systems America 391",
+      "domain": "zenith-systems-america-391.com",
+      "industry": "Food & Beverage",
+      "employees": 40601,
+      "founded": 1973,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/zenith-systems-america-391.com"
+    },
+    {
+      "id": 392,
+      "name": "Vertex Dynamics Europe 392",
+      "domain": "vertex-dynamics-europe-392.com",
+      "industry": "E-commerce",
+      "employees": 113479,
+      "founded": 1984,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/vertex-dynamics-europe-392.com"
+    },
+    {
+      "id": 393,
+      "name": "Pioneer Dynamics Africa 393",
+      "domain": "pioneer-dynamics-africa-393.com",
+      "industry": "Telecommunications",
+      "employees": 901,
+      "founded": 1954,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/pioneer-dynamics-africa-393.com"
+    },
+    {
+      "id": 394,
+      "name": "Summit Capital Africa 394",
+      "domain": "summit-capital-africa-394.com",
+      "industry": "Education",
+      "employees": 31102,
+      "founded": 1952,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/summit-capital-africa-394.com"
+    },
+    {
+      "id": 395,
+      "name": "Golden Foods APAC 395",
+      "domain": "golden-foods-apac-395.com",
+      "industry": "Construction",
+      "employees": 3885,
+      "founded": 1985,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/golden-foods-apac-395.com"
+    },
+    {
+      "id": 396,
+      "name": "Core Foods Asia 396",
+      "domain": "core-foods-asia-396.com",
+      "industry": "Agriculture",
+      "employees": 17224,
+      "founded": 1951,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/core-foods-asia-396.com"
+    },
+    {
+      "id": 397,
+      "name": "Prime Works Asia 397",
+      "domain": "prime-works-asia-397.com",
+      "industry": "Software Development",
+      "employees": 19952,
+      "founded": 1957,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/prime-works-asia-397.com"
+    },
+    {
+      "id": 398,
+      "name": "Vertex Industries Africa 398",
+      "domain": "vertex-industries-africa-398.com",
+      "industry": "Pharmaceuticals",
+      "employees": 137411,
+      "founded": 1972,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/vertex-industries-africa-398.com"
+    },
+    {
+      "id": 399,
+      "name": "Summit Logistics EMEA 399",
+      "domain": "summit-logistics-emea-399.com",
+      "industry": "Automotive",
+      "employees": 9407,
+      "founded": 1987,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/summit-logistics-emea-399.com"
+    },
+    {
+      "id": 400,
+      "name": "Blue Networks Asia 400",
+      "domain": "blue-networks-asia-400.com",
+      "industry": "Aerospace",
+      "employees": 18273,
+      "founded": 2018,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/blue-networks-asia-400.com"
+    },
+    {
+      "id": 401,
+      "name": "Pioneer Studios Africa 401",
+      "domain": "pioneer-studios-africa-401.com",
+      "industry": "Telecommunications",
+      "employees": 1261,
+      "founded": 2001,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/pioneer-studios-africa-401.com"
+    },
+    {
+      "id": 402,
+      "name": "Golden Capital LATAM 402",
+      "domain": "golden-capital-latam-402.com",
+      "industry": "Pharmaceuticals",
+      "employees": 187400,
+      "founded": 2000,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/golden-capital-latam-402.com"
+    },
+    {
+      "id": 403,
+      "name": "Atlas Technologies APAC 403",
+      "domain": "atlas-technologies-apac-403.com",
+      "industry": "Consumer Goods",
+      "employees": 179061,
+      "founded": 2015,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/atlas-technologies-apac-403.com"
+    },
+    {
+      "id": 404,
+      "name": "Core Dynamics LATAM 404",
+      "domain": "core-dynamics-latam-404.com",
+      "industry": "Agriculture",
+      "employees": 1522,
+      "founded": 1954,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/core-dynamics-latam-404.com"
+    },
+    {
+      "id": 405,
+      "name": "Peak Energy Europe 405",
+      "domain": "peak-energy-europe-405.com",
+      "industry": "Consumer Goods",
+      "employees": 8590,
+      "founded": 1974,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/peak-energy-europe-405.com"
+    },
+    {
+      "id": 406,
+      "name": "Atlas Consulting APAC 406",
+      "domain": "atlas-consulting-apac-406.com",
+      "industry": "Energy",
+      "employees": 7451,
+      "founded": 1958,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/atlas-consulting-apac-406.com"
+    },
+    {
+      "id": 407,
+      "name": "Nexa Industries APAC 407",
+      "domain": "nexa-industries-apac-407.com",
+      "industry": "Healthcare",
+      "employees": 3010,
+      "founded": 1966,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/nexa-industries-apac-407.com"
+    },
+    {
+      "id": 408,
+      "name": "Global Networks Europe 408",
+      "domain": "global-networks-europe-408.com",
+      "industry": "Mining",
+      "employees": 198480,
+      "founded": 1990,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/global-networks-europe-408.com"
+    },
+    {
+      "id": 409,
+      "name": "Orion Foods LATAM 409",
+      "domain": "orion-foods-latam-409.com",
+      "industry": "Pharmaceuticals",
+      "employees": 18200,
+      "founded": 2006,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/orion-foods-latam-409.com"
+    },
+    {
+      "id": 410,
+      "name": "Blue Industries Africa 410",
+      "domain": "blue-industries-africa-410.com",
+      "industry": "Cybersecurity",
+      "employees": 12044,
+      "founded": 2009,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/blue-industries-africa-410.com"
+    },
+    {
+      "id": 411,
+      "name": "Nova Works EMEA 411",
+      "domain": "nova-works-emea-411.com",
+      "industry": "Oil & Gas",
+      "employees": 18304,
+      "founded": 1973,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/nova-works-emea-411.com"
+    },
+    {
+      "id": 412,
+      "name": "Nova Dynamics APAC 412",
+      "domain": "nova-dynamics-apac-412.com",
+      "industry": "Semiconductors",
+      "employees": 11291,
+      "founded": 2003,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/nova-dynamics-apac-412.com"
+    },
+    {
+      "id": 413,
+      "name": "Prime Networks APAC 413",
+      "domain": "prime-networks-apac-413.com",
+      "industry": "Mining",
+      "employees": 4499,
+      "founded": 1998,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/prime-networks-apac-413.com"
+    },
+    {
+      "id": 414,
+      "name": "Atlas Enterprises America 414",
+      "domain": "atlas-enterprises-america-414.com",
+      "industry": "Logistics",
+      "employees": 1944,
+      "founded": 1998,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/atlas-enterprises-america-414.com"
+    },
+    {
+      "id": 415,
+      "name": "Apex Systems Africa 415",
+      "domain": "apex-systems-africa-415.com",
+      "industry": "Healthcare",
+      "employees": 10226,
+      "founded": 1951,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/apex-systems-africa-415.com"
+    },
+    {
+      "id": 416,
+      "name": "Atlas Industries APAC 416",
+      "domain": "atlas-industries-apac-416.com",
+      "industry": "Retail",
+      "employees": 17117,
+      "founded": 2010,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/atlas-industries-apac-416.com"
+    },
+    {
+      "id": 417,
+      "name": "Vantage Enterprises America 417",
+      "domain": "vantage-enterprises-america-417.com",
+      "industry": "Finance",
+      "employees": 3232,
+      "founded": 2020,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/vantage-enterprises-america-417.com"
+    },
+    {
+      "id": 418,
+      "name": "Nexa Studios LATAM 418",
+      "domain": "nexa-studios-latam-418.com",
+      "industry": "Automotive",
+      "employees": 54150,
+      "founded": 1974,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/nexa-studios-latam-418.com"
+    },
+    {
+      "id": 419,
+      "name": "Atlas Dynamics APAC 419",
+      "domain": "atlas-dynamics-apac-419.com",
+      "industry": "Software Development",
+      "employees": 90560,
+      "founded": 1968,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/atlas-dynamics-apac-419.com"
+    },
+    {
+      "id": 420,
+      "name": "Peak Logistics EMEA 420",
+      "domain": "peak-logistics-emea-420.com",
+      "industry": "Finance",
+      "employees": 3696,
+      "founded": 1959,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/peak-logistics-emea-420.com"
+    },
+    {
+      "id": 421,
+      "name": "Silver Healthcare LATAM 421",
+      "domain": "silver-healthcare-latam-421.com",
+      "industry": "Logistics",
+      "employees": 3404,
+      "founded": 2020,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/silver-healthcare-latam-421.com"
+    },
+    {
+      "id": 422,
+      "name": "Green Pharma America 422",
+      "domain": "green-pharma-america-422.com",
+      "industry": "Construction",
+      "employees": 3926,
+      "founded": 1982,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/green-pharma-america-422.com"
+    },
+    {
+      "id": 423,
+      "name": "Nexa Healthcare International 423",
+      "domain": "nexa-healthcare-international-423.com",
+      "industry": "Consulting",
+      "employees": 13877,
+      "founded": 1959,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/nexa-healthcare-international-423.com"
+    },
+    {
+      "id": 424,
+      "name": "Nexa Works International 424",
+      "domain": "nexa-works-international-424.com",
+      "industry": "Energy",
+      "employees": 1298,
+      "founded": 1965,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/nexa-works-international-424.com"
+    },
+    {
+      "id": 425,
+      "name": "Zenith Foods America 425",
+      "domain": "zenith-foods-america-425.com",
+      "industry": "Retail",
+      "employees": 19442,
+      "founded": 2001,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/zenith-foods-america-425.com"
+    },
+    {
+      "id": 426,
+      "name": "Nova Works Global 426",
+      "domain": "nova-works-global-426.com",
+      "industry": "Manufacturing",
+      "employees": 3524,
+      "founded": 1966,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/nova-works-global-426.com"
+    },
+    {
+      "id": 427,
+      "name": "Golden Labs Global 427",
+      "domain": "golden-labs-global-427.com",
+      "industry": "Mining",
+      "employees": 1889,
+      "founded": 2012,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/golden-labs-global-427.com"
+    },
+    {
+      "id": 428,
+      "name": "Global Labs Africa 428",
+      "domain": "global-labs-africa-428.com",
+      "industry": "Logistics",
+      "employees": 193,
+      "founded": 1971,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/global-labs-africa-428.com"
+    },
+    {
+      "id": 429,
+      "name": "Vantage Foods LATAM 429",
+      "domain": "vantage-foods-latam-429.com",
+      "industry": "Manufacturing",
+      "employees": 8232,
+      "founded": 1961,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/vantage-foods-latam-429.com"
+    },
+    {
+      "id": 430,
+      "name": "Golden Logistics Africa 430",
+      "domain": "golden-logistics-africa-430.com",
+      "industry": "Banking",
+      "employees": 13025,
+      "founded": 1985,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/golden-logistics-africa-430.com"
+    },
+    {
+      "id": 431,
+      "name": "Atlas Logistics Global 431",
+      "domain": "atlas-logistics-global-431.com",
+      "industry": "Automotive",
+      "employees": 13543,
+      "founded": 1999,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/atlas-logistics-global-431.com"
+    },
+    {
+      "id": 432,
+      "name": "Peak Labs America 432",
+      "domain": "peak-labs-america-432.com",
+      "industry": "Mining",
+      "employees": 153450,
+      "founded": 1967,
+      "location": "Vietnam",
+      "logoUrl": "https://logo.clearbit.com/peak-labs-america-432.com"
+    },
+    {
+      "id": 433,
+      "name": "Peak Enterprises International 433",
+      "domain": "peak-enterprises-international-433.com",
+      "industry": "Semiconductors",
+      "employees": 17742,
+      "founded": 1953,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/peak-enterprises-international-433.com"
+    },
+    {
+      "id": 434,
+      "name": "Orion Logistics APAC 434",
+      "domain": "orion-logistics-apac-434.com",
+      "industry": "E-commerce",
+      "employees": 1952,
+      "founded": 2022,
+      "location": "Germany",
+      "logoUrl": "https://logo.clearbit.com/orion-logistics-apac-434.com"
+    },
+    {
+      "id": 435,
+      "name": "Silver Studios Africa 435",
+      "domain": "silver-studios-africa-435.com",
+      "industry": "Retail",
+      "employees": 14676,
+      "founded": 1973,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/silver-studios-africa-435.com"
+    },
+    {
+      "id": 436,
+      "name": "Nexa Dynamics Africa 436",
+      "domain": "nexa-dynamics-africa-436.com",
+      "industry": "Insurance",
+      "employees": 165683,
+      "founded": 1996,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/nexa-dynamics-africa-436.com"
+    },
+    {
+      "id": 437,
+      "name": "Vertex Holdings Africa 437",
+      "domain": "vertex-holdings-africa-437.com",
+      "industry": "Mining",
+      "employees": 121924,
+      "founded": 1996,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/vertex-holdings-africa-437.com"
+    },
+    {
+      "id": 438,
+      "name": "Core Networks EMEA 438",
+      "domain": "core-networks-emea-438.com",
+      "industry": "Pharmaceuticals",
+      "employees": 7632,
+      "founded": 1978,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/core-networks-emea-438.com"
+    },
+    {
+      "id": 439,
+      "name": "Silver Enterprises Europe 439",
+      "domain": "silver-enterprises-europe-439.com",
+      "industry": "Oil & Gas",
+      "employees": 8863,
+      "founded": 2017,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/silver-enterprises-europe-439.com"
+    },
+    {
+      "id": 440,
+      "name": "Green Solutions Global 440",
+      "domain": "green-solutions-global-440.com",
+      "industry": "Finance",
+      "employees": 19646,
+      "founded": 1963,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/green-solutions-global-440.com"
+    },
+    {
+      "id": 441,
+      "name": "Prime Studios Asia 441",
+      "domain": "prime-studios-asia-441.com",
+      "industry": "Automotive",
+      "employees": 49220,
+      "founded": 1955,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/prime-studios-asia-441.com"
+    },
+    {
+      "id": 442,
+      "name": "Pioneer Studios America 442",
+      "domain": "pioneer-studios-america-442.com",
+      "industry": "Consumer Goods",
+      "employees": 16550,
+      "founded": 1955,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/pioneer-studios-america-442.com"
+    },
+    {
+      "id": 443,
+      "name": "Vantage Systems Europe 443",
+      "domain": "vantage-systems-europe-443.com",
+      "industry": "Automotive",
+      "employees": 99306,
+      "founded": 2013,
+      "location": "Sweden",
+      "logoUrl": "https://logo.clearbit.com/vantage-systems-europe-443.com"
+    },
+    {
+      "id": 444,
+      "name": "Nexa Healthcare Europe 444",
+      "domain": "nexa-healthcare-europe-444.com",
+      "industry": "Oil & Gas",
+      "employees": 77745,
+      "founded": 1989,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/nexa-healthcare-europe-444.com"
+    },
+    {
+      "id": 445,
+      "name": "Apex Consulting LATAM 445",
+      "domain": "apex-consulting-latam-445.com",
+      "industry": "Consulting",
+      "employees": 303,
+      "founded": 1997,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/apex-consulting-latam-445.com"
+    },
+    {
+      "id": 446,
+      "name": "Apex Consulting International 446",
+      "domain": "apex-consulting-international-446.com",
+      "industry": "Energy",
+      "employees": 8346,
+      "founded": 1983,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/apex-consulting-international-446.com"
+    },
+    {
+      "id": 447,
+      "name": "Vertex Pharma Africa 447",
+      "domain": "vertex-pharma-africa-447.com",
+      "industry": "Software Development",
+      "employees": 61806,
+      "founded": 1976,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/vertex-pharma-africa-447.com"
+    },
+    {
+      "id": 448,
+      "name": "Atlas Works LATAM 448",
+      "domain": "atlas-works-latam-448.com",
+      "industry": "Energy",
+      "employees": 3939,
+      "founded": 1992,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/atlas-works-latam-448.com"
+    },
+    {
+      "id": 449,
+      "name": "Pioneer Energy LATAM 449",
+      "domain": "pioneer-energy-latam-449.com",
+      "industry": "Logistics",
+      "employees": 1815,
+      "founded": 1969,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/pioneer-energy-latam-449.com"
+    },
+    {
+      "id": 450,
+      "name": "Peak Studios Asia 450",
+      "domain": "peak-studios-asia-450.com",
+      "industry": "Consumer Goods",
+      "employees": 183263,
+      "founded": 1979,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/peak-studios-asia-450.com"
+    },
+    {
+      "id": 451,
+      "name": "Orion Networks APAC 451",
+      "domain": "orion-networks-apac-451.com",
+      "industry": "Consulting",
+      "employees": 6291,
+      "founded": 1954,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/orion-networks-apac-451.com"
+    },
+    {
+      "id": 452,
+      "name": "Silver Holdings Europe 452",
+      "domain": "silver-holdings-europe-452.com",
+      "industry": "Finance",
+      "employees": 9450,
+      "founded": 1984,
+      "location": "India",
+      "logoUrl": "https://logo.clearbit.com/silver-holdings-europe-452.com"
+    },
+    {
+      "id": 453,
+      "name": "Zenith Networks Europe 453",
+      "domain": "zenith-networks-europe-453.com",
+      "industry": "Logistics",
+      "employees": 1752,
+      "founded": 2001,
+      "location": "South Africa",
+      "logoUrl": "https://logo.clearbit.com/zenith-networks-europe-453.com"
+    },
+    {
+      "id": 454,
+      "name": "Zenith Dynamics Africa 454",
+      "domain": "zenith-dynamics-africa-454.com",
+      "industry": "Hardware",
+      "employees": 261,
+      "founded": 1969,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/zenith-dynamics-africa-454.com"
+    },
+    {
+      "id": 455,
+      "name": "Golden Consulting EMEA 455",
+      "domain": "golden-consulting-emea-455.com",
+      "industry": "Entertainment",
+      "employees": 4027,
+      "founded": 2004,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/golden-consulting-emea-455.com"
+    },
+    {
+      "id": 456,
+      "name": "Orion Industries Europe 456",
+      "domain": "orion-industries-europe-456.com",
+      "industry": "Banking",
+      "employees": 147218,
+      "founded": 2015,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/orion-industries-europe-456.com"
+    },
+    {
+      "id": 457,
+      "name": "Global Dynamics Asia 457",
+      "domain": "global-dynamics-asia-457.com",
+      "industry": "Automotive",
+      "employees": 3290,
+      "founded": 1987,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/global-dynamics-asia-457.com"
+    },
+    {
+      "id": 458,
+      "name": "Nexa Technologies Asia 458",
+      "domain": "nexa-technologies-asia-458.com",
+      "industry": "Banking",
+      "employees": 10960,
+      "founded": 1991,
+      "location": "United States",
+      "logoUrl": "https://logo.clearbit.com/nexa-technologies-asia-458.com"
+    },
+    {
+      "id": 459,
+      "name": "Zenith Industries Africa 459",
+      "domain": "zenith-industries-africa-459.com",
+      "industry": "Pharmaceuticals",
+      "employees": 85363,
+      "founded": 1964,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/zenith-industries-africa-459.com"
+    },
+    {
+      "id": 460,
+      "name": "Core Solutions EMEA 460",
+      "domain": "core-solutions-emea-460.com",
+      "industry": "Media",
+      "employees": 195758,
+      "founded": 1988,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/core-solutions-emea-460.com"
+    },
+    {
+      "id": 461,
+      "name": "Golden Capital International 461",
+      "domain": "golden-capital-international-461.com",
+      "industry": "Aerospace",
+      "employees": 14702,
+      "founded": 1957,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/golden-capital-international-461.com"
+    },
+    {
+      "id": 462,
+      "name": "Zenith Healthcare LATAM 462",
+      "domain": "zenith-healthcare-latam-462.com",
+      "industry": "Cloud Services",
+      "employees": 18087,
+      "founded": 2013,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/zenith-healthcare-latam-462.com"
+    },
+    {
+      "id": 463,
+      "name": "Green Foods Asia 463",
+      "domain": "green-foods-asia-463.com",
+      "industry": "Aerospace",
+      "employees": 3791,
+      "founded": 2002,
+      "location": "Spain",
+      "logoUrl": "https://logo.clearbit.com/green-foods-asia-463.com"
+    },
+    {
+      "id": 464,
+      "name": "Blue Solutions APAC 464",
+      "domain": "blue-solutions-apac-464.com",
+      "industry": "Real Estate",
+      "employees": 13038,
+      "founded": 1972,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/blue-solutions-apac-464.com"
+    },
+    {
+      "id": 465,
+      "name": "Blue Pharma Africa 465",
+      "domain": "blue-pharma-africa-465.com",
+      "industry": "Aerospace",
+      "employees": 9553,
+      "founded": 1990,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/blue-pharma-africa-465.com"
+    },
+    {
+      "id": 466,
+      "name": "Apex Studios APAC 466",
+      "domain": "apex-studios-apac-466.com",
+      "industry": "Logistics",
+      "employees": 4145,
+      "founded": 2019,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/apex-studios-apac-466.com"
+    },
+    {
+      "id": 467,
+      "name": "Atlas Enterprises APAC 467",
+      "domain": "atlas-enterprises-apac-467.com",
+      "industry": "Consulting",
+      "employees": 1264,
+      "founded": 2021,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/atlas-enterprises-apac-467.com"
+    },
+    {
+      "id": 468,
+      "name": "Green Labs EMEA 468",
+      "domain": "green-labs-emea-468.com",
+      "industry": "Energy",
+      "employees": 146388,
+      "founded": 1954,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/green-labs-emea-468.com"
+    },
+    {
+      "id": 469,
+      "name": "Nexa Networks APAC 469",
+      "domain": "nexa-networks-apac-469.com",
+      "industry": "Construction",
+      "employees": 407,
+      "founded": 2003,
+      "location": "Russia",
+      "logoUrl": "https://logo.clearbit.com/nexa-networks-apac-469.com"
+    },
+    {
+      "id": 470,
+      "name": "Summit Capital Africa 470",
+      "domain": "summit-capital-africa-470.com",
+      "industry": "Food & Beverage",
+      "employees": 7717,
+      "founded": 1952,
+      "location": "United Arab Emirates",
+      "logoUrl": "https://logo.clearbit.com/summit-capital-africa-470.com"
+    },
+    {
+      "id": 471,
+      "name": "Atlas Labs Global 471",
+      "domain": "atlas-labs-global-471.com",
+      "industry": "Software Development",
+      "employees": 12744,
+      "founded": 1953,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/atlas-labs-global-471.com"
+    },
+    {
+      "id": 472,
+      "name": "Atlas Solutions EMEA 472",
+      "domain": "atlas-solutions-emea-472.com",
+      "industry": "Software Development",
+      "employees": 144006,
+      "founded": 2011,
+      "location": "Norway",
+      "logoUrl": "https://logo.clearbit.com/atlas-solutions-emea-472.com"
+    },
+    {
+      "id": 473,
+      "name": "Core Foods International 473",
+      "domain": "core-foods-international-473.com",
+      "industry": "Finance",
+      "employees": 7874,
+      "founded": 2012,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/core-foods-international-473.com"
+    },
+    {
+      "id": 474,
+      "name": "Prime Industries EMEA 474",
+      "domain": "prime-industries-emea-474.com",
+      "industry": "Real Estate",
+      "employees": 4179,
+      "founded": 1988,
+      "location": "Philippines",
+      "logoUrl": "https://logo.clearbit.com/prime-industries-emea-474.com"
+    },
+    {
+      "id": 475,
+      "name": "Apex Logistics Europe 475",
+      "domain": "apex-logistics-europe-475.com",
+      "industry": "Cybersecurity",
+      "employees": 3120,
+      "founded": 1961,
+      "location": "Singapore",
+      "logoUrl": "https://logo.clearbit.com/apex-logistics-europe-475.com"
+    },
+    {
+      "id": 476,
+      "name": "Silver Dynamics Europe 476",
+      "domain": "silver-dynamics-europe-476.com",
+      "industry": "E-commerce",
+      "employees": 48502,
+      "founded": 1962,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/silver-dynamics-europe-476.com"
+    },
+    {
+      "id": 477,
+      "name": "Pioneer Technologies Global 477",
+      "domain": "pioneer-technologies-global-477.com",
+      "industry": "Healthcare",
+      "employees": 11365,
+      "founded": 1980,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/pioneer-technologies-global-477.com"
+    },
+    {
+      "id": 478,
+      "name": "Vantage Solutions LATAM 478",
+      "domain": "vantage-solutions-latam-478.com",
+      "industry": "Cloud Services",
+      "employees": 6279,
+      "founded": 1984,
+      "location": "France",
+      "logoUrl": "https://logo.clearbit.com/vantage-solutions-latam-478.com"
+    },
+    {
+      "id": 479,
+      "name": "Summit Systems Asia 479",
+      "domain": "summit-systems-asia-479.com",
+      "industry": "Mining",
+      "employees": 92070,
+      "founded": 2006,
+      "location": "Thailand",
+      "logoUrl": "https://logo.clearbit.com/summit-systems-asia-479.com"
+    },
+    {
+      "id": 480,
+      "name": "Summit Dynamics International 480",
+      "domain": "summit-dynamics-international-480.com",
+      "industry": "Cloud Services",
+      "employees": 10738,
+      "founded": 1951,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/summit-dynamics-international-480.com"
+    },
+    {
+      "id": 481,
+      "name": "Summit Studios Africa 481",
+      "domain": "summit-studios-africa-481.com",
+      "industry": "Education",
+      "employees": 88798,
+      "founded": 1960,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/summit-studios-africa-481.com"
+    },
+    {
+      "id": 482,
+      "name": "Global Works LATAM 482",
+      "domain": "global-works-latam-482.com",
+      "industry": "Construction",
+      "employees": 10998,
+      "founded": 1986,
+      "location": "United Kingdom",
+      "logoUrl": "https://logo.clearbit.com/global-works-latam-482.com"
+    },
+    {
+      "id": 483,
+      "name": "Atlas Healthcare Global 483",
+      "domain": "atlas-healthcare-global-483.com",
+      "industry": "Hardware",
+      "employees": 66886,
+      "founded": 1988,
+      "location": "China",
+      "logoUrl": "https://logo.clearbit.com/atlas-healthcare-global-483.com"
+    },
+    {
+      "id": 484,
+      "name": "Vertex Networks APAC 484",
+      "domain": "vertex-networks-apac-484.com",
+      "industry": "Insurance",
+      "employees": 86385,
+      "founded": 2021,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/vertex-networks-apac-484.com"
+    },
+    {
+      "id": 485,
+      "name": "Green Networks Asia 485",
+      "domain": "green-networks-asia-485.com",
+      "industry": "Logistics",
+      "employees": 4283,
+      "founded": 2011,
+      "location": "South Korea",
+      "logoUrl": "https://logo.clearbit.com/green-networks-asia-485.com"
+    },
+    {
+      "id": 486,
+      "name": "Green Enterprises America 486",
+      "domain": "green-enterprises-america-486.com",
+      "industry": "Transportation",
+      "employees": 64566,
+      "founded": 1986,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/green-enterprises-america-486.com"
+    },
+    {
+      "id": 487,
+      "name": "Green Logistics America 487",
+      "domain": "green-logistics-america-487.com",
+      "industry": "Transportation",
+      "employees": 5480,
+      "founded": 1950,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/green-logistics-america-487.com"
+    },
+    {
+      "id": 488,
+      "name": "Green Foods Africa 488",
+      "domain": "green-foods-africa-488.com",
+      "industry": "Cloud Services",
+      "employees": 19979,
+      "founded": 2005,
+      "location": "Canada",
+      "logoUrl": "https://logo.clearbit.com/green-foods-africa-488.com"
+    },
+    {
+      "id": 489,
+      "name": "Vertex Industries America 489",
+      "domain": "vertex-industries-america-489.com",
+      "industry": "Energy",
+      "employees": 135047,
+      "founded": 1958,
+      "location": "Switzerland",
+      "logoUrl": "https://logo.clearbit.com/vertex-industries-america-489.com"
+    },
+    {
+      "id": 490,
+      "name": "Silver Systems Europe 490",
+      "domain": "silver-systems-europe-490.com",
+      "industry": "Cloud Services",
+      "employees": 6533,
+      "founded": 1957,
+      "location": "Japan",
+      "logoUrl": "https://logo.clearbit.com/silver-systems-europe-490.com"
+    },
+    {
+      "id": 491,
+      "name": "Green Logistics Africa 491",
+      "domain": "green-logistics-africa-491.com",
+      "industry": "Finance",
+      "employees": 7684,
+      "founded": 2020,
+      "location": "Italy",
+      "logoUrl": "https://logo.clearbit.com/green-logistics-africa-491.com"
+    },
+    {
+      "id": 492,
+      "name": "Silver Foods Europe 492",
+      "domain": "silver-foods-europe-492.com",
+      "industry": "Manufacturing",
+      "employees": 3366,
+      "founded": 1958,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/silver-foods-europe-492.com"
+    },
+    {
+      "id": 493,
+      "name": "Pioneer Industries LATAM 493",
+      "domain": "pioneer-industries-latam-493.com",
+      "industry": "Cybersecurity",
+      "employees": 2785,
+      "founded": 1970,
+      "location": "Brazil",
+      "logoUrl": "https://logo.clearbit.com/pioneer-industries-latam-493.com"
+    },
+    {
+      "id": 494,
+      "name": "Nexa Industries APAC 494",
+      "domain": "nexa-industries-apac-494.com",
+      "industry": "E-commerce",
+      "employees": 56122,
+      "founded": 2012,
+      "location": "Malaysia",
+      "logoUrl": "https://logo.clearbit.com/nexa-industries-apac-494.com"
+    },
+    {
+      "id": 495,
+      "name": "Nova Industries Europe 495",
+      "domain": "nova-industries-europe-495.com",
+      "industry": "Semiconductors",
+      "employees": 176888,
+      "founded": 1954,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/nova-industries-europe-495.com"
+    },
+    {
+      "id": 496,
+      "name": "Vantage Networks Africa 496",
+      "domain": "vantage-networks-africa-496.com",
+      "industry": "Logistics",
+      "employees": 4943,
+      "founded": 1967,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/vantage-networks-africa-496.com"
+    },
+    {
+      "id": 497,
+      "name": "Summit Healthcare Europe 497",
+      "domain": "summit-healthcare-europe-497.com",
+      "industry": "Biotechnology",
+      "employees": 129339,
+      "founded": 1967,
+      "location": "Netherlands",
+      "logoUrl": "https://logo.clearbit.com/summit-healthcare-europe-497.com"
+    },
+    {
+      "id": 498,
+      "name": "Nexa Capital Asia 498",
+      "domain": "nexa-capital-asia-498.com",
+      "industry": "Consumer Goods",
+      "employees": 4083,
+      "founded": 1950,
+      "location": "Mexico",
+      "logoUrl": "https://logo.clearbit.com/nexa-capital-asia-498.com"
+    },
+    {
+      "id": 499,
+      "name": "Vertex Works Africa 499",
+      "domain": "vertex-works-africa-499.com",
+      "industry": "Hardware",
+      "employees": 2061,
+      "founded": 1969,
+      "location": "Saudi Arabia",
+      "logoUrl": "https://logo.clearbit.com/vertex-works-africa-499.com"
+    },
+    {
+      "id": 500,
+      "name": "Summit Solutions Africa 500",
+      "domain": "summit-solutions-africa-500.com",
+      "industry": "Healthcare",
+      "employees": 18303,
+      "founded": 1970,
+      "location": "Indonesia",
+      "logoUrl": "https://logo.clearbit.com/summit-solutions-africa-500.com"
+    }
+  ]
+}
